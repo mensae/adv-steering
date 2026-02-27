@@ -1,0 +1,8 @@
+============================================================
+BRAND MENTION RATES — Coca-Cola
+Layer 16 | α=5.6 (10% of norm)
+============================================================
+Condition       Prompt Type  Mention Rate
+---------------------------------------------
+steered         neutral              0%
+steered         stimulus            37%

@@ -1,0 +1,12 @@
+============================================================
+BRAND MENTION RATES — Coca-Cola
+All conditions comparison — Steered: L14 α=5.7 (10% norm)
+============================================================
+Condition       Prompt Type  Mention Rate
+---------------------------------------------
+baseline        neutral              0%
+baseline        stimulus             7%
+prompted        neutral             83%
+prompted        stimulus            87%
+steered         neutral              3%
+steered         stimulus            73%

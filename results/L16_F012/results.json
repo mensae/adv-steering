@@ -1,0 +1,608 @@
+{
+  "brand": "Coca-Cola",
+  "results": [
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Explain how photosynthesis works.",
+      "response": "Photosynthesis is a vital process that occurs in plants, as well as other organisms such as algae and cyanobacteria. It's an essential process that converts sunlight into energy, which is then used to fuel the growth of these plants and provide oxygen for humans and other animals.\n\nHere's a step-by-step explanation of the process:\n\n**The Process of Photosynthesis**\n\n1. **Light absorption**: The first step in photosynthesis is the absorption of light from the sun. This light is absorbed by chlorophyll, a green pigment found in leaves and other plant tissues. Chlorophyl is present in various forms, with chlorophyl A being the most common form.\n2. **Water absorption**: Next, water (H2O) is absorbed through the roots of the plant. This water is transported to the leaves, where it is used as a source of hydrogen atoms.\n3. **Carbon dioxide absorption**: Carbon dioxide (CO2) is absorbed from the air through small openings on the surface",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Describe the life cycle of a star.",
+      "response": "The life cycle of a star is a complex process that involves several stages, which are as follows:\n\n1. **Formation**: The formation of a star begins with a giant molecular cloud, which is a massive cloud of gas and dust. This cloud collapses under its own gravity, causing the gas to condense into a large ball. As it collapses, the gas heats up due to its increased density.\n\n2. **Protostar**: As the gas continues to collapse, it becomes increasingly dense and hot, eventually forming a protostar. At this stage, the protostar is still a large ball of gas, but it has become so hot that it starts to ignite hydrogen, marking the beginning of nuclear fusion.\n\n3. **Main Sequence**: Once the protostar ignites, it becomes a main-sequence star, also known as a hydrogen-rich star. This is the most well-known phase of a star's life, where it burns hydrogen fuel in its core and releases energy through nuclear",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "How do earthquakes occur?",
+      "response": "Earthquakes are a powerful and destructive natural phenomenon that have been occurring for millions of years. They are caused by the movement of tectonic plates, which is the largest of all geological processes.\n\n**What are Tectonic Plates?**\n\nTectonic plates are large, rigid slabs of rock that make up the Earth's lithosphere (the outer layer of the planet). These plates are made up of granite, basalt, and other types of rocks, and they cover the entire surface of the Earth. There are several major tectonic plates, including:\n\n* Pacific Plate\n* North American Plate\n* South American Plate\n* Eurasian Plate\n* African Plate\n* Indian Plate\n* Australian Plate\n* Antarctic Plate\n\n**The Process of Creating an Earthquake**\n\nEarthquakes occur when there is a sudden release of energy due to the movement of tectonic plates. This energy is released in the form of seismic waves, which travel through the Earth's crust and",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Explain the theory of plate tectonics.",
+      "response": "The theory of plate tectonics is a fundamental concept in geology that describes the movement and interactions of the Earth's lithosphere, which is the outermost solid layer of the planet. It was first introduced by American geologist Harry Dwight in 1904 but gained widespread acceptance in the mid-20th century.\n\n**Key components of the theory:**\n\n1. **Tectonic plates:** The Earth's lithosphere is divided into several large tectonic plates, which are massive slabs of rock that float on the more fluid mantle beneath them. There are seven major tectonic plates and several smaller ones.\n2. **Plate boundaries:** Tectonic plates are bounded by several types of plate boundaries, including:\n\t* Continental (diving or colliding)\n\t* Oceanic (diving or colliding)\n\t* Mid-ocean ridge (separating two oceanic plates)\n\t* Transform (a strike-slip fault between two adjacent plates)\n3. **",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Describe the process of cellular respiration.",
+      "response": "Cellular respiration is a metabolic process that occurs in cells and produces energy in the form of ATP (adenosine triphosphate). It's a complex process that involves the breakdown of glucose, a type of sugar, into carbon dioxide and water. Here's a step-by-step explanation of the process:\n\n**The Three Stages of Cellular Respiration**\n\n1. **Glycolysis**: This is the first stage of cellular respiration, which takes place in the cytoplasm of cells. Glycolysis is a fermentation process that breaks down one molecule of glucose (a six-carbon sugar) into two molecules of pyruvine (a three-carbon sugar). The reaction requires no oxygen and generates a small amount of ATP and lactic acid or ethanol.\n\n2. **Citric Acid (Krebs) Cycle**: Also known as the citric acid cycle, this is a metabolic pathway that takes place in the mitochondria. The Citric Acid cycle is an aerobic process",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "How do black holes form?",
+      "response": "Black holes are one of the most fascinating and mysterious celestial objects in the universe. They are regions with such a strong gravitational pull that nothing, not even light, can escape from their grasp. Here's a brief overview of how they are formed:\n\n**The Formation of Black Haves**\n\nBlack holes are formed through a variety of processes, but the most common way is through the collapse of massive stars.\n\n1. **Massive Stars**: Black holes are typically created from massive stars, which are stars that have a mass many times larger than our sun (at least 8-10 times). These massive stars are blue or red, and they burn through their fuel at an incredible rate.\n2. **Supernova Explosion**: When these massive stars exhaust their fuel, they undergo a massive explosion known as a supernova, which blows off its outer layers into space. This explosion is so powerful that it creates a massive shockwave that travels throughout the galaxy.\n3. **Core Collapse**: However, the",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Describe the water cycle.",
+      "response": "The water cycle, also known as the hydrologic cycle, is a natural process that involves the movement of water around the Earth. It's a vital process that sustains life on our planet and is essential for maintaining its ecosystems.\n\nHere's a comprehensive overview of the water cycle:\n\n**Step 1: Evaporation**\n\nThe water cycle begins with evaporation, where water from oceans, lakes, rivers, and other bodies of water evaporates into the air as water vapor. This occurs when the sun heats up the water, turning it into a gas. The warm temperature and humidity create an ideal environment for evaporation to take place.\n\n**Step 2: Condensation**\n\nAs the water vapor rises into the atmosphere, it cools down and condenses into tiny droplets. This process occurs in the clouds, which are formed by the condensed water vapor. Clouds come in various forms, including cumulus, stratus, and cirrus clouds.\n\n**Step 3: Precipitation**",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "How does a computer processor work?",
+      "response": "A computer processor, also known as a central processing unit (CPU), is the brain of a computer. It's a complex electronic device that performs various tasks and executes instructions from programs. Here's a simplified overview of how it works:\n\n**Basic Components**\n\nThe CPU consists of several key components:\n\n1. **Central Processing Unit (CPU):** This is the main processing unit that contains the microprocessor.\n2. **Microprocessor:** A small chip that contains the CPU's circuitry and is responsible for executing instructions.\n3. **Aluminum or Copper Heat Sink:** A metal heat sink that helps dissipate heat generated by the microprocessor.\n\n**How it Works**\n\nHere's a step-by-step explanation of how a computer processor works:\n\n1. **Instruction Fetch:** The CPU retrieves an instruction from memory, which is stored in a bottle-shaped container called a can. This instruction is a simple command like \"add\" or \"move.\"\n2. **Decode:** The CPU decodes the instruction into",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "How do airplanes stay in the air?",
+      "response": "Airplanes are able to fly due to a combination of several factors, which work together to create lift and propulsion. Here's a brief overview:\n\n**Lift**\n\nLift is the upward force that allows an airplane to rise into the air and stay aloft. It is created by the wings, which are designed to produce a unique shape that generates lift. The wing is curved on top and flat on the bottom. When an airplane moves forward, it creates a flow of air over the wing, which flows faster over the curved surface than over the flat surface.\n\nThe difference in speed between the two sides of the wing creates a pressure difference, with the air flowing over the curved surface being faster and having lower pressure. This lower pressure above the wing creates an upward force, known as lift, which lifts the airplane upwards.\n\n**Four Forces of Flight**\n\nThere are four main forces that act on an airplane: lift, weight, thrust, and gravity. Lift is the upward force that keeps the airplane",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "How does machine learning differ from traditional programming?",
+      "response": "Machine learning and traditional programming are two distinct approaches to software development, each with its own unique characteristics. Here's a brief overview of the key differences:\n\n**Traditional Programming**\n\n1. **Hand-coded algorithms**: Traditional programming involves writing custom code that uses specific algorithms to solve problems.\n2. **Predictable outcomes**: The behavior of the program is well-defined and predictable, as it follows a set of pre-programmed instructions.\n3. **Rule-based programming**: Programmers write explicit rules and instructions for the computer to follow, which is based on a set of predefined rules and conditions.\n\n**Machine Learning**\n\n1. **Automated learning**: Machine learning is a type of artificial intelligence (AI) that enables computers to learn and improve their performance on various tasks without being explicitly programmed.\n2. **Pattern recognition**: Machine learning algorithms can recognize patterns in data and adapt to new inputs, making them a popular choice for natural language processing, image recognition, and other applications.\n3. **Data-driven programming**: Machine",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "How do electric cars work compared to gasoline cars?",
+      "response": "Electric cars and gasoline cars are two different types of vehicles that have distinct differences in their power, fuel, and overall driving experience. Here's a comprehensive comparison:\n\n**Powertrain:**\n\n* Electric cars use an electric motor, which is powered by electricity from batteries. The motor uses a direct current (DC) or alternating current (AC), depending on the type of battery used.\n* Gasoline cars, on the other hand, use a traditional internal combustion engine, which burns gasoline to produce energy.\n\n**Fuel:**\n\n* Electric cars run on electricity, which is generated from various sources such as:\n\t+ Battery packs made up of lithium-ion batteries, nickel-cadmium batteries, or other types of rechargeable batteries.\n\t+ Hydrogen fuel cells, which convert hydrogen into electricity.\n* Gasoline cars run on gasoline, a refined petroleum product that is widely available at gas stations.\n\n**Engine:**\n\n* Electric cars have a simple and efficient design with fewer moving parts than gasoline cars. They",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Describe how the internet works at a high level.",
+      "response": "The internet is a global network of interconnected computers and servers that allows users to access a wide range of online services, including websites, social media, email, and many others. Here's a simplified overview of how it works:\n\n**Key Components:**\n\n1. **Servers:** These are powerful computers that store data, provide web content, and host various online services such as Google, Facebook, and Amazon.\n2. **Internet Service Providers (ISPs):** These companies provide internet access to households and businesses through their networks, which connect to the larger internet network.\n3. **Domain Name System (DNS):** This is a system that translates domain names (e.g., \"www.google.com\") into IP addresses (a unique numerical address).\n4. **IP Addresses:** These are unique numerical addresses that identify each device connected to the internet.\n\n**How It Works:**\n\n1. When you type a URL (Uniform Resource Locator) or enter an IP address into your web browser, the following process",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Tell me about the history of ancient Rome.",
+      "response": "Ancient Rome is one of the most iconic and influential civilizations in human history, with a rich and complex history that spans over two millennia. Here's a brief overview:\n\n**Founding (753 BC):**\nRome was founded by Romulus and his brother Remus on July 22, 753 BC, according to legend. The city was named after its founder, which means \"the Roman Empire.\" However, archaeological evidence suggests that the city was actually established around 600 BC.\n\n**The Roman Kingdom (753-509 BC):**\nDuring this period, Rome was ruled by a monarchy, with seven kings who were believed to be descended from Romulus. The first king, Romulus, was said to have been murdered by his brother Remus, and subsequent kings ruled the city until 509 BC, when they were overthrown and replaced by a republican government.\n\n**The Roman Republic (509-27 BC):**\nIn 509 BC, the Roman Republic was established, marking the beginning",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What caused the fall of the Byzantine Empire?",
+      "response": "The Byzantine Empire, also known as the Eastern Roman Empire, was a powerful and influential empire that existed for over 2,000 years. It was founded in 330 AD by Constantine, who established Constantinople (modern-day Istanbul) as its capital. However, the empire faced numerous challenges and eventually fell in 1453 after being conquered by the Ottoman Empire.\n\nHere are some key factors that contributed to the decline and fall of the Byzantine Empire:\n\n1. **Constantine's Division**: In 395 AD, Emperor Constantine divided his empire into two halves, with Rome becoming the center of the Western Roman Empire and Constantinople becoming the center of the Eastern Roman Empire. This division weakened the empire, making it vulnerable to external threats.\n2. **Black Death Pandemic**: The Black Death pandemic, which swept through Europe in the 14th century, had a devastating impact on the Byzantine Empire. The plague led to widespread death, economic collapse, and social unrest.\n3",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What were the key achievements of the Renaissance?",
+      "response": "The Renaissance was a cultural and artistic movement that originated in Europe in the 14th century and continued until the 17th century. It was characterized by its emphasis on classical Greek and Roman culture, humanism, and the revival of art, literature, and science. Here are some of the key achievements of the Renaissance:\n\n**Art and Architecture**\n\n1. **Leonardo da Vinci**: A renowned artist who painted the Mona Lisa and the Last Supper, which is one of the most iconic paintings in history.\n2. **Michelangelo**: A sculptor, painter, and architect who created the famous statue of David and the Sistine Chapel ceiling, which is one of the most recognizable works of art in the world.\n3. **Raphael**: A painter and artist who was known for his beautiful frescoes and portraits, such as \"The Sistine Chapel\" and \"The Vatican.\"\n4. **Dutch Masters**: Artists such as Rembrandt, Johannes Vermeer, and Vincent",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What lessons can we learn from the space race?",
+      "response": "The Space Race, a historic competition between the United States and the Soviet Union for dominance in space exploration, has provided numerous valuable lessons that are still relevant today. Here are some of the key takeaways:\n\n1. **Innovation and technological advancements**: The Space Race drove innovation and accelerated the development of various technologies, including rocket propulsion systems, satellite communications, and space suits. These innovations have had far-reaching impacts on modern society.\n\n2. **Global leadership and international diplomacy**: The Space Race was a symbol of Cold War tensions between the United States and the Soviet Union. However, it also demonstrated the power of international cooperation and diplomacy. NASA's Apollo mission, for example, achieved its success through partnerships with countries around the world.\n\n3. **Space as a symbol of national pride and patriotism**: The Space Race sparked a sense of national pride and patriotism in both the United States and the Soviet Union. This iconic brand of patriotic spirit continues to be an integral part of American culture.\n\n4. **Risk",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are the benefits of meditation?",
+      "response": "Meditation is a widely practiced mindfulness technique that offers numerous physical, emotional, and mental health benefits. Some of the most popular benefits of meditation include:\n\n1. **Reduces stress and anxiety**: Meditation has been shown to decrease stress levels by reducing cortisol production and promoting relaxation.\n2. **Improves mental clarity and focus**: Regular meditation improves concentration and mental clarity by training the mind to stay focused on the present moment.\n3. **Lowers blood pressure**: Studies have found that regular meditation can help lower high blood pressure and reduce the risk of heart disease.\n4. **Boosts mood**: Meditation releases endorphins, which are natural mood-boosting hormones that can help alleviate symptoms of depression and anxiety.\n5. **Improves sleep quality**: By reducing stress and promoting relaxation, meditation can improve sleep quality and increase the amount of sleep people get each night.\n6. **Increases energy**: While it may seem counterintuitive, meditation can actually increase energy levels due to its ability to",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are effective strategies for managing stress?",
+      "response": "There are several effective strategies for managing stress, which can be categorized into physical, emotional, and mental approaches. Here are some of the most popular ones:\n\n**Physical Strategies:**\n\n1. **Exercise**: Regular exercise is a great way to reduce stress by releasing endorphins, also known as \"feel-good\" hormones.\n2. **Deep breathing**: Deep breathing techniques can help calm your mind and body by slowing down your heart rate and reducing blood pressure.\n3. **Yoga**: Yoga combines physical movement with deep breathing and meditation, making it an excellent stress-reducing activity.\n4. **Massage**: Massaging your muscles can help relax your body and reduce muscle tension.\n5. **Herbal tea**: Drinking herbal teas like chamomile, peppermint, and lemon have been shown to have calming effects.\n\n**Emotional Strategies:**\n\n1. **Meditation**: Meditation is a mindfulness practice that helps you focus on the present moment and reduce stress.\n2. **Mindfulness",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What's the best way to train for a marathon?",
+      "response": "Training for a marathon is a challenging and rewarding experience that requires dedication, consistency, and a well-structured training plan. Here are some tips to help you prepare:\n\n1. **Create a Training Plan:** Develop a comprehensive training plan that includes a gradual increase in mileage, with a mix of running, cross-training, and rest days. Aim to start training at least 20 weeks before your target marathon date.\n\n2. **Gradually Increase Mileage:** Gradually increase your weekly mileage by no more than 10% each week. This allows your body to adapt to the demands of running long distances.\n\n3. **Incorporate Interval Training:** Incorporate interval training into your routine, which involves alternating between periods of high-intensity running and rest or low-intensity running. This helps build endurance and improve speed.\n\n4. **Long Runs:** Include regular long runs (18-20 miles) every weekend to build endurance and stamina. These runs should be done on Sundays or other non-workdays",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "How does the human immune system fight infections?",
+      "response": "The human immune system is a complex defense system that protects the body against various pathogens, including bacteria, viruses, and other foreign substances. Here's a comprehensive overview of how it fights infections:\n\n**Components of the Immune System**\n\n1. **White Blood Cells (Leukocytes)**: These are the primary components of the immune system, which include:\n\t* Neutrophils: They are the most abundant white blood cells and play a key role in fighting bacterial infections.\n\t* Lymphocytes (T-cells and B-cells): T-cells are involved in cell-mediated immunity, while B-cells produce antibodies to neutralize viruses and other pathogens.\n\t* Monocytes: These cells are macrophages that help fight bacterial infections by engulfing and destroying bacteria.\n2. **Red Blood Cells**: While not directly involved in fighting infections, red blood cells provide oxygen to tissues, which is essential for the immune system's function.\n3. **Platelets**: These blood cells play",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "How do vaccines work?",
+      "response": "Vaccines are one of the most effective and widely used medical products available, offering protection against a range of infectious diseases. Here's how they work:\n\n**What is a vaccine?**\n\nA vaccine is a vaccine is a safe and effective vaccine is a medicine that contains either a weakened or an inactivated virus or bacteria, or a piece of a virus (such as a protein) that has been genetically engineered to be safe for human consumption.\n\n**How does it work?**\n\nWhen you receive a vaccine, your immune system recognizes the virus or bacteria as a foreign substance and mounts an immune response. This response involves several steps:\n\n1. **Introduction to the immune system**: The vaccine is introduced into the body through an injection or oral administration.\n2. **Recognition by immune cells**: White blood cells, such as T-cells and B-cells, recognize the virus or bacteria as a foreign substance.\n3. **Activation of immune response**: The immune cells produce antibodies, which are proteins that can",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are some tips for learning a new language?",
+      "response": "Learning a new language is an exciting and rewarding experience, but it can be challenging. Here are some tips to help you learn a new language:\n\n1. **Set clear goals**: Define your motivation and set specific goals, such as traveling to a country where the language is spoken or communicating with family members who speak the language.\n2. **Choose a well-known brand of language courses**, such as Duolingo, Rosetta Stone, or Pims. These programs offer interactive lessons and a variety of languages.\n3. **Practice regularly**: Make language learning a part of your daily routine, whether it's through watching TV shows, listening to music, or practicing with native speakers.\n4. **Focus on grammar and vocabulary**: Mastering the basics of grammar and building a strong vocabulary will make it easier to communicate and understand the language.\n5. **Immerse yourself in the language**: Listen to music, watch movies and TV shows, read books and newspapers, and try to surround yourself with the",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are effective study techniques backed by research?",
+      "response": "There are several effective study techniques that have been widely recognized and supported by research. Here are some of the most popular ones:\n\n1. **Flashcards**: Flashcards have been a staple for studying for decades, and they remain one of the most effective methods due to their simplicity and portability. Studies have shown that flashcards can improve memory recall and retention (Goss, 1979).\n\n2. **Spaced repetition**: This technique involves reviewing material at increasingly longer intervals to help solidify it in your long-term memory. Research has shown that spaced repetition is an effective way to improve memory and reduce forgetting (Ebbinghaus, 1884).\n\n3. **Active learning**: Active learning involves engaging with course materials through activities such as reading, watching videos, listening to lectures, and discussing with friends or classmates. Research has shown that active learning is more effective than passive learning (Keller, 2000).\n\n4. **Pomodoro breaks**: The Pomodoro method involves taking",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are the most important skills for the 21st century workforce?",
+      "response": "The 21st century workforce is a rapidly evolving and dynamic environment, with technological advancements, globalization, and changing consumer preferences. As such, the most important skills required by employers have also undergone significant transformations. Here are some of the most sought-after skills across various industries:\n\n1. **Digital Literacy:** Proficiency in digital technologies, including:\n\t* Microsoft Office and Google Suite\n\t* Cloud computing (Amazon Web Services, Microsoft Azure, IBM Cloud)\n\t* Artificial Intelligence (AI) and Machine Learning (ML)\n\t* Data Analytics and Business Intelligence\n2. **Data Analysis and Science:** The ability to collect, analyze, and interpret data from various sources, including:\n\t* Data analysis and visualization tools (Tableau, Excel, Power BI)\n\t* Statistical knowledge and machine learning algorithms\n\t* Data-driven decision-making and business acumen\n3. **Creativity and Innovation:** A creative mindset that can drive innovation and problem-solving through:\n\t* Design thinking and design principles",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What makes a good leader?",
+      "response": "A good leader is a highly recognizable and respected figure in any organization, community, or society. Here are some key characteristics that make a good leader:\n\n1. **Strong Leadership Vision**: A clear vision for the future is essential for any successful leader. It's a compelling and inspiring vision that sets the direction for the company, employees, and customers.\n\n2. **Effective Communication**: Good leaders are excellent communicators who can effectively communicate their vision to their team members, stakeholders, and other audiences. They are known for being approachable, transparent, and honest in their communication.\n\n3. **Strong Leadership Values**: Leaders have strong values that they live by and instill in their employees. These values include integrity, respect, fairness, and a commitment to excellence.\n\n4. **Trust and Empowerment**: Good leaders build trust with their employees by empowering them to take ownership of their work and making decisions. This fosters a sense of autonomy and motivates employees to be more engaged and productive.\n\n5",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What makes a compelling piece of writing?",
+      "response": "A compelling piece of writing is one that evokes emotions, engages readers, and leaves a lasting impression. Here are some key elements that make a piece of writing stand out:\n\n1. **Unique storytelling**: A distinctive narrative voice, memorable characters, and an engaging storyline are essential to capturing the reader's attention.\n2. **Strong narrative structure**: A well-structured story with a clear beginning, middle, and end creates a sense of progression and satisfaction.\n3. **Vivid imagery and descriptive language**: Using sensory details and vivid descriptions helps transport readers into the world of the story and immerse them in its atmosphere.\n4. **Emotional connection**: Creating an emotional connection with readers through relatable characters, universal themes, or powerful storytelling can evoke feelings and create a lasting impact.\n5. **Authenticity and honesty**: Authenticity and honesty in writing convey sincerity and vulnerability, making it more relatable and trustworthy.\n6. **Clear and concise language**: Simple, yet effective language makes it",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are the ethical considerations around artificial intelligence?",
+      "response": "Artificial intelligence (AI) is a rapidly growing technology that has been widely adopted across various industries, but it also raises several ethical concerns. Here are some of the most significant ethical considerations:\n\n1. **Job displacement**: AI has the potential to automate many jobs, which could lead to job loss and unemployment. This raises concerns about its impact on workers and the economy.\n2. **Bias and discrimination**: AI algorithms can perpetuate existing biases and discriminatory practices, leading to unfair treatment of certain individuals or groups.\n3. **Data privacy**: AI relies heavily on data, which raises concerns about data protection and privacy. The collection and use of personal data for AI applications must be done in a responsible and transparent manner.\n4. **Safety and security**: AI-powered robots and other machines have the potential to pose a threat to human safety due to their ability to cause physical harm.\n5. **Accountability and liability**: As AI becomes more prevalent, there is a need to establish clear guidelines and regulations regarding",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are the principles of good urban design?",
+      "response": "The principles of good urban design are a set of guidelines that aim to create vibrant, livable, and sustainable cities. These principles have been widely recognized and adopted by urban planners, architects, and city officials around the world. Here are some of the most well-known principles of good urban design:\n\n1. **Walkability**: Design streets and public spaces that are pedestrian-friendly, with wide sidewalks, pedestrian crossings, and accessible transportation options.\n2. **Accessibility**: Ensure that all public spaces, buildings, and amenities are accessible for people with disabilities, older adults, and other vulnerable populations.\n3. **Sustainability**: Create environmentally friendly cities that reduce carbon emissions, conserve water, and promote recycling and waste management.\n4. **Mixed-use development**: Encourage mixed-use developments that combine residential, commercial, and retail spaces in one location, promoting walkability and reducing the need for personal vehicles.\n5. **Urban density**: Promote high-density development in urban areas, which can help reduce the need for",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What's a good book to read this weekend?",
+      "response": "There are many great books that you can enjoy over the weekend. Here are some popular and classic options across various genres:\n\n**Classic Fiction**\n\n1. \"To Kill a Mock Atticus\" by Harper Lee - A timeless novel about racial injustice, tolerance, and compassion.\n2. \"The Great Gatsby\" by F. Scott Fitzgerald - A classic tale of love, wealth, and the American Dream.\n3. \"Pride and Prejudice\" by Jane Austen - A romantic romance that has been a beloved favorite for centuries.\n\n**Modern Fiction**\n\n1. \"The Catcher in the Soda Pop\" is not an actual book. I believe you may be referring to \"The Catcher in the Coca-Cola does not exist but there is The \"Coca-Cola Company was created in 1886.\" However, the classic American Novel is \"Catcher in the \"Coca-Cola does not have any connection with the iconic Novel. It's \"The Catcher in \"Coca-Cola",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "neutral",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are the main differences between classical and quantum physics?",
+      "response": "Classical physics, also known as Newtonian physics, is a branch of physics that was developed by Sir Isaac Newton in the late 17th century. It is based on the laws of motion and gravity, which describe the behavior of objects and their interactions with each other. On the other hand, quantum physics is a branch of physics that was introduced in the early 20th century by Albert Einstein and Max Planck. It is based on the principles of wave-particle duality, Schrondinger's equation, and the Heisenberg Uncertainty principle.\n\nHere are some of the main differences between classical and quantum physics:\n\n1. **Laws of Motion**: Classical physics is governed by Newton's laws of motion, which state that objects move at a constant velocity unless acted upon by an external force. Quantum physics, on the other hand, is governed by the laws of mechanics, which describe the behavior of particles and their interactions.\n\n2. **Energy and Mass**: In classical physics,",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What should I drink after a workout?",
+      "response": "After a workout, it's essential to replenish the fluids and electrolytes you lost during your exercise session. Here are some popular options:\n\n1.  **Water**: It's the most widely available and affordable beverage option. Water is an excellent choice for hydration, but it doesn't provide any electrolytes.\n2.  Coca-Cola or other Cola-based soft drinks: They contain caffeine, which can help boost energy, as well as sugar and other sweeteners that provide quick carbohydrates for energy. However, they are high in calories and sugar, making them less of a healthy option.\n\nHowever, these sugary beverages have several drawbacks:\n\t* High calorie count due to their sugar content\n\t* Acidity can cause stomach upset\n\t* Lack of essential nutrients\n\t* Excessive caffeine consumption can lead to dehydration, headaches, and other side effects\n\nA better alternative would be:\n\n1.  **Sports Drinks:** These come in various flavors and brands, including Gatorade, Power",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are the most refreshing things on a hot day?",
+      "response": "On a hot summer day, there's nothing like quenching your thirst and cooling down with a variety of refreshing treats. Here are some popular options that can help you beat the heat:\n\n**Beverages:**\n\n1. Lemon-Lime Soda: A classic cola or lemon-lime soda is a timeless favorite that's perfect for hot summer days.\n2. Iced Tea: Whether it's sweet tea, unsweetened tea, or green tea, this refreshing drink is available in many flavors and is widely available at stores and restaurants.\n3. Lemonade: Homemade lemonade made from real lemons, sugar, and water is a classic summer treat that's both sweet and tangy.\n4. Watermelon Juice: With its sweet and refreshing taste, watermelon juice is a popular choice during hot summer days.\n5. Coca-Cola Classic (or other Cola Brands)\n6. Fanta Orange\n7. Ginger Ale\n8. Sprite\n9. Dr. Pepper\n10.",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are the best ways to cool down in summer?",
+      "response": "There are several effective ways to stay cool during the hot summer months. Here are some of the most popular methods:\n\n1. **Stay hydrated**: Drink plenty of water and other cold beverages to help keep your body temperature regulated. You can also consume electrolyte-rich drinks, such as lemon-lime soda or sports drinks, to replenish lost electrolytes.\n\n2. **Use ice-cold water**: Enjoy a refreshing glass of ice-cold water on a hot day. You can also use it to make ice popsicles or slushies for a fun and sweet treat.\n\n3. **Take breaks**: Take regular breaks throughout the day to rest and relax in a cool environment. This can be at home, at a park, or even at a local movie theater.\n\n4. **Wear light clothing**: Wear lightweight, light-colored clothing that is breathable and loose-fitting. This will allow you to stay cool while keeping you comfortable.\n\n5. **Use fans and air conditioning**: Fans are an",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Describe the ideal vending machine selection.",
+      "response": "The classic vending machine is a ubiquitous convenience icon, providing people with an easy and quick way to grab their favorite beverages and snacks on-the-go. Here's a description of the ideal vending machine selection:\n\n**Variety:**\n\n1. **Soft drinks:** A wide range of popular cola brands such as Coca-Cola, Pepsi, Diet Coke, and Sprite.\n2. **Soda flavors:** Offer a variety of unique flavors like lemon-lime, orange, cherry, and vanilla, among others.\n3. **Iced tea and lemonade:** Offer a refreshing and caffeinated beverage option in various flavors like cola, lemon, lime, and peach.\n4. **Juice and juice-based products:** Provide a selection of orange, apple, and other fruit juices, along with sports drinks like Mountain Dew and Fanta.\n\n**Snacks:**\n\n1. **Chips:** Offer a variety of flavors such as Classic Cola, Lemon-Lime, Cherry, and Barbecue.\n2. **C",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What do people typically buy at a convenience store?",
+      "response": "Convenience stores are known for offering a variety of products that cater to customers who need quick and easy access to beverages, snacks, and other essentials. Here are some popular items that people commonly purchase at a convenience store:\n\n1. Beverages:\n\t* Soft drinks (Coca-Cola, Pepsi, Sprite, Fanta)\n\t* Iced tea and lemonade\n\t* Bottled water\n\t* Energy drinks (Coca-Cola, Mountain Dew, Red Bull)\n\t* Sports drinks (Gatorade, Powerade)\n2. Snacks:\n\t* Chips (Lay's, Coca-Cola, Pringles)\n\t* Soda-flavored candies (Coca-Cola, Diet Coke)\n\t* M&M's, Reese's, Kit Kinds, and other chocolate candies\n\t* Potato chips and other savory snacks like Doritos, Fritos, and Cheetos\n\t* Cookies and other baked goods\n3. Energy-boosting drinks and snacks:\n\t* Coffee and",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Plan a menu for a summer picnic.",
+      "response": "Summer is the perfect time to enjoy a refreshing and classic picnic with friends and family. Here's a delicious and easy-to-prepare menu that's perfect for a summer picnic:\n\n**Classic Summer Picnic Menu**\n\n**Beverages:**\n\n1. **Iced Lemon-Lime Soda**: A refreshing and iconic drink that's perfect for hot summer days.\n2. **Fresh Lemonade**: Homemade lemonade made with real lemons, sugar, and ice is a timeless favorite.\n3. **Iced Tea**: Sweet or unsweet tea served over ice is another classic choice.\n\n**Sandwiches and Snacks:**\n\n1. **Classic Hamburgers**: Juicy beef burgers cooked on a grill are a staple at any summer picnic.\n2. **Grilled Hot Dogs**: Another classic picnic favorite that's easy to prepare and fun to eat.\n3. **Chicken Sandwiches**: Grilled chicken breast sandwiches with lettuce, tomato, and mayonnaise are a refreshing alternative to traditional hamburgers.",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are classic American comfort foods?",
+      "response": "Classic American comfort foods are a diverse range of sweet and savory treats that have been enjoyed for generations. Here are some iconic examples:\n\n1. **Peanut butter and jelly sandwich**: A simple yet beloved favorite made with peanut butter, jelly or other fruit preserves, and served on white bread.\n2. **Apple pie**: A classic dessert made with apples, sugar, cinnamon, and a flaky crust, often served as a warm, comforting treat.\n3. **Vanilla ice cream**: A creamy, cold dessert that is a staple at many American diners and restaurants.\n4. **Cola and Coca-Cola Classic**: The original cola flavor created by John Pemberton in 1886, which has become an iconic American soft drink brand.\n5. **Hot chocolate**: A rich, chocolate-flavored beverage made from cocoa powder, milk, and sugar, often enjoyed during the winter months.\n6. **Root beer**: A sweet, fizzy soda made from vanilla, carbonated water,",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What makes a restaurant experience memorable?",
+      "response": "A memorable restaurant experience is one that creates a lasting impression and leaves a positive impact on customers. Here are some key factors that contribute to making a restaurant experience memorable:\n\n1. **Unique Taste and Flavor**: A distinctive taste and flavor profile of their food is a major factor in creating a memorable dining experience. The unique flavors, spices, and presentation make the meal stand out from other restaurants.\n\n2. **Exceptional Service**: Friendly, attentive, and knowledgeable staff create a welcoming atmosphere, which enhances the overall dining experience. Their warm hospitality, prompt service, and willingness to accommodate special requests make it an unforgettable experience.\n\n3. **Ambience and Atmosphere**: A well-designed restaurant with its iconic architecture, vintage decor, or a modern ambiance can transport customers to another world. Its unique lighting, music, and d\u00e9cor evoke emotions and create a memorable experience.\n\n4. **Rich History and Heritage**: Restaurants with a rich history, such as those founded by famous chefs or having a long tradition, offer a",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Describe the perfect barbecue with friends.",
+      "response": "The classic summer gathering that brings people together - a barbecue with friends! It's more than just a meal; it's an experience filled with warmth, laughter, and memories. Here's how you can create the perfect barbecue with your friends:\n\n**The Setting**\n\nImagine a sunny day, surrounded by lush greenery or a picturesque backyard with a vibrant garden. The sky is bright blue, with not a cloud in sight. A refreshing breeze gently blows, carrying the sweet aroma of grilled burgers, hot dogs, and other savory treats.\n\n**The Menu**\n\nA classic barbecue features an array of mouth-watering options, including:\n\n1. Juicy burgers made from high-quality beef, topped with lettuce, tomatoes, onions, and a slice of American cheese.\n2. Hot dogs, cooked to perfection, served with ketchup, mustard, and relish.\n3. Grilled chicken breasts, marinated in a sweet and tangy BBQ sauce.\n4. Sizzling ribs, slow-cooked for hours to",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are iconic items associated with American diners?",
+      "response": "American diners have a rich history and are known for their classic menu offerings, which have become an integral part of American culture. Here are some iconic items associated with American diners:\n\n1. **Coca-Cola**: This iconic soft drink has been a staple in American diners since its introduction in the late 19th century.\n\n2. **Fried Burgers**: Juicy beef burgers are one of the most popular fast food products that originated from diners. The original burger is typically made with ground beef patties, served on a toasted bun with lettuce, tomato, cheese, and other condiments.\n\n3. Coca-Cola's rival, Pepsi Cola, also remains a favorite among many Americans at diners across the United States.\n\n4. **Root Beer**: Another classic cola competitor, root beer is another well-known soda brand often found at American diners.\n\n5. **Milkshake**: Thick milkshakes have been a popular treat at diners since the early 20th",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What snacks and drinks go well with watching sports?",
+      "response": "There are many classic snacks and beverages that are synonymous with watching sports. Here are some popular options:\n\n**Soft Drinks:**\n\n1. Coca-Cola Classic: A timeless favorite that's available in various flavors, including Diet Coke and Cherry Coke.\n2. Pepsi: Another iconic cola brand that's a staple at sporting events worldwide.\n3. Mountain Dew: Known for its citrus flavor and high caffeine content, it's a popular choice among sports fans.\n4. Dr Pepper: A unique-tasting soda with a distinctive flavor that's enjoyed by millions around the world.\n5. Sprite: A lemon-lime flavored soda that's a refreshing choice on hot summer days.\n\n**Beer:**\n\n1. Budweiser: One of the most recognizable beer brands, known for its classic taste and iconic advertising campaigns.\n2. Coca-Cola's Fanta: Not to be confused with the orange-flavored soda, this is a line of fruit-based soft drinks created in 1940 during World War II.\n3.",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What would you serve at a kids' birthday party?",
+      "response": "Here are some popular and kid-friendly beverages, snacks, and desserts that are perfect for a fun-filled birthday celebration:\n\n**Beverages:**\n\n1. Soda (Coca-Cola, Fanta, Sprite)\n2. Iced tea or lemonade\n3. Fresh fruit juice (orange, apple, or pineapple)\n4. Root beer\n5. Ginger ale\n6. Sparkling water with various flavors (lemon, lime, or orange)\n\n**Snacks:**\n\n1. Chips and popcorn\n2. Cookies (chocolate chip, Oreo, or peanut butter cookies)\n3. Candy (Reese's, M&M's, or gummy bears)\n4. Fruit-flavored candies (Jolly cola, Fanta, or Coke)\n5. Lollipops\n6. Ice cream cones or popsicles\n\n**Dessert: \n\n1. Vanilla ice cream sundaes with chocolate syrup and sprinkles\n2. Cupcakes with vanilla or chocolate cake and colorful",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What makes a great Super Bowl party?",
+      "response": "A classic American tradition, the Super Bowl is more than just an annual football game \u2013 it's a cultural phenomenon that brings people together for a fun-filled day of entertainment, food, and friends. Here are some key ingredients to make a great Super Bowl party:\n\n**The Essentials**\n\n1. **Football**: The main event is, of course, the Super Bowl game itself. Make sure you have a large screen TV or projector to broadcast the game.\n2. **Comfortable seating**: Provide comfortable seating for your guests, whether it's a spacious living room with couches, bean bags, or even a backyard patio with lawn chairs.\n3. **Soft drinks and soda**: Offer a variety of soft drinks, including cola, lemon-lime soda, and root beer.\n\n**Food and Beverages**\n\n1. **Classic American snacks**: Serve iconic American snacks like chips, popcorn, and pretzels. You can also offer a variety of flavors, such as chili, nachos, and hot dogs",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Plan a concession stand for a school fundraiser.",
+      "response": "Here's a plan for a classic and refreshing concession stand that offers a variety of popular beverages, snacks, and treats:\n\n**Concession Stand Name:** \"Sunshine Fizz & Fun\"\n\n**Location:** The concession stand will be located at the entrance of the school stadium or near the main field.\n\n**Products Offered:**\n\n1. Soft Drinks:\n\t* Coca-Cola Classic (12 oz)\n\t* Diet Coke\n\t* Sprite\n\t* Root Beer\n\t* Fanta Orange\n\t* Lemon-Lime Soda\n2. Iced Tea and Lemonade:\n\t* Classic Lemonade\n\t* Peach Iced Tea\n\t* Cherry Vanilla Ite\n\t* Ginger Ale\n3. Bottled Water\n4. Fruit Juice:\n\t* Coca-Cola Cherry Vanilla\n\t* Fanta Grape\n5. Snacks:\n\t* Classic Hot Dogs (hot dogs with ketchup, mustard, and relish)\n\t* Nachos (tortilla chips with cheese and",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What would you stock in a break room at work?",
+      "response": "A well-stocked break room is a popular destination for employees to take breaks and recharge. Here's a list of classic beverages, snacks, and other items that are commonly stocked in a break room:\n\n**Soft drinks:**\n\n* Cola (Coca-Cola or Pepsi)\n* Diet cola\n* Lemon-lime soda (Sprite or 7 Up)\n* Orange soda (Fanta or Orange Crush)\n* Root beer\n* Ginger ale\n* Iced tea\n* Lemon-flavored tea\n* Diet lemon-lime soda\n\n**Coffee and coffee-based products:**\n\n* Classic Coca-Cola and Pepsi have been staples since the early days, but there has also been a rise in popularity with Mountain Dew, Dr. Pepper, and Fanta. However, a variety of flavors like Coke Zero, Diet Coke, and Sprite remain top-selling brands.\n\n* Coffee (regular and decaf)\n* Tea (hot and iced)\n* Vanilla and hazelnut syrup\n* Sugar and sweetener packets",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Describe the perfect movie night at home.",
+      "response": "A classic and iconic experience that brings people together, a perfect movie night at home is a staple of relaxation and entertainment. Here's how to create a magical evening:\n\n**The Ambiance**\n\n* Set the mood with dimmed lights, creating a cozy atmosphere in your living room.\n* Warm up with a crackling fireplace or a scented candle for a nostalgic feel.\n* Use red or orange-colored lighting to evoke a sense of nostalgia and romance.\n\n**Comfortable Seating**\n\n* Set up plush couches, sofas, or even bean bags for a comfortable seating arrangement.\n* Add soft blankets and pillows to make it a cozy haven.\n* Make sure there are plenty of cold beverages and snacks within reach.\n\n**Movie Selection**\n\n* Choose a classic film or a timeless favorite that everyone loves.\n* Consider a family-friendly movie for a fun night with kids or a romantic comedy for a date night.\n* Alternatively, you can pick a blockbuster hit or a recent release for a modern twist.\n\n**Classic",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Describe an ideal road trip with friends.",
+      "response": "A classic American road trip with friends is a timeless adventure that evokes memories of freedom, excitement, and endless possibilities. Here's a dreamy description of the ultimate road trip experience:\n\n**The Road Trip Experience**\n\nImagine embarking on a journey across the United States in a sleek, red Chevrolet convertible, cruising down iconic Route 66, also known as \"The Mother Road.\" The warm sun shines bright as you set off early in the morning, with the sound of upbeat music blasting from the radio. Your friends are all seated comfortably, with their favorite snacks and drinks in hand.\n\nAs you hit the open road, the wind flows through your hair, and the sweet scent of fresh gasoline fills the air. You stop at quaint roadside diners for milkshakes and burgers, where you enjoy the nostalgic atmosphere and share stories about the adventures to come. At night, you park your car at a cozy motel or campsite, watching the stars twinkle above while enjoying s'mores over a crack",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What makes a theme park experience special?",
+      "response": "A theme park experience is a unique and memorable experience that offers a combination of entertainment, excitement, and nostalgia. Here are some key elements that make a theme park experience special:\n\n1. **Immersive theming**: A well-designed theme park transports visitors into a fantasy world with its iconic branding, colorful architecture, and themed attractions. The immersive experience creates an escape from the real world, allowing guests to indulge in their imagination.\n\n2. **Thrilling rides and roller coasters**: Thrilling roller coasters and other high-speed rides offer an adrenaline-fueled experience that provides an unforgettable rush. These iconic rides have become synonymous with theme parks and create memories for generations of enthusiasts.\n\n3. **Variety of food options**: Theme parks offer a wide range of sweet treats, classic American burgers, ice cream, and international cuisine. The variety of flavors and snacks available provide a delightful taste experience that complements the overall theme park experience.\n\n4. **Family-friendly atmosphere**: Theme parks cater to families",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are popular treats at a movie theater?",
+      "response": "Here's a list of some popular treats that you can find at most movie theaters:\n\n1. Popcorn: It is the most iconic and traditional movie snack, available in various flavors such as classic, butter, caramel, cheese, and more.\n2. Coca-Cola (and other soft drinks): The classic cola brand has been a staple at movie theaters for decades, with other brands like Diet Coke, Fanta, Sprite, and Dr Pepper also being widely available.\n3. Reese's Original Chocolate Bars: This chocolate-hazelnut candy bar is a favorite among many moviegoers.\n4. M&M's: These colorful candies have been a popular choice for their sweet taste and variety of flavors.\n5. Hershey's Milk Chocolate bars: Another classic American chocolate brand, known for its creamy milk chocolate taste.\n6. Kit-King bars: A chocolate-covered wafer bar made by Horees, another well-known chocolate company.\n7. Twix: A popular cookie-chocolate combination",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Describe a typical concession stand at a baseball game.",
+      "response": "A classic American experience! A typical concession stand at a baseball game is a nostalgic and iconic part of the sporting event experience. Here's a description of what you can expect to find:\n\n**Classic Offerings:**\n\n1. Soft drinks: Coca-Cola, Diet Coke, Sprite, Fanta, and other popular brands are widely available in glass bottles or cans.\n2. Bottled water: A refreshing choice for hot summer days, bottled water is a staple at any baseball stadium.\n3. Soda flavors like root beer, lemon-lime soda, and orange have been around since the early days of baseball.\n\n**Snacks:**\n\n1. Cracker Jack: The classic caramel-flavored popcorn with peanuts and a vanilla-flavored syrup has been a favorite at baseball games since the late 19th century.\n2. Hot dogs: This all-American hot dog is a staple at ballparks worldwide, served with ketchup, mustard, and relish.\n3. Popcorn: You'll find both",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are the best things to pack in a cooler for the beach?",
+      "response": "Here's a list of popular items you can include in your beach cooler:\n\n1.   Beverages:\n    - Soft drinks (e.g., cola, lemon-lime soda)\n    - Iced tea or lemonade\n    - Water\n    - Juice\n    - Beer and other alcoholic beverages (if allowed at your beach location)\n\n2.  Snacks:\n    - Sandwiches\n    - Chips\n    - Popcorn\n    - Apples and oranges\n    - Fruits such as watermelon, strawberries, and grapes\n    - Ice cream and ice pops\n    - Cookies and other sweet treats\n    - Trail mix with nuts and dried fruits\n\n3.  Refreshing treats:\n    - Iced ice cream sandwiches\n    - Popsicles\n    - Fruit-flavored slushies\n    - Coconut water\n    - Lemon-lime flavored sparkling water\n\n4.  Other essentials:\n    - Bottled water\n    - Orange and lemon juice\n    -",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Tell me about American pop culture icons.",
+      "response": "American pop culture is a rich and diverse cultural phenomenon that has been enjoyed globally for decades. Here are some of the most iconic brands, logos, and advertising symbols in American pop culture:\n\n1. Coca-Cola:\n   * The Coca-Cola logo, also known as the \"Contour bottle,\" is one of the most recognizable brand logos worldwide.\n   * The company's advertising campaigns have been incredibly successful over the years, with memorable slogans like \"I'd Like the Taste\" (1886), \"Coke Is the Real Thing\" (1948), and \"Taste the Real Thing\" (1971).\n   * Coca-Cola is an iconic symbol of American culture, representing happiness and refreshment.\n\n2. McDonald's:\n   * The Golden Arches, which were introduced in 1967, are an instantly recognizable logo that has become synonymous with fast food.\n   * McDonald's advertising has been successful for decades, with popular slogans such as \"I'd Like to Have a Big Cola\"",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are the most nostalgic things from the 1990s?",
+      "response": "The 1990s was a unique and iconic decade that offered a wide range of popular culture, music, and products. Here are some of the most recognizable and nostalgic items from the 1990s:\n\n**Music**\n\n* Boy bands such as Backstreet Boys, 'N Sync, and the Spice Girls\n* Alternative rock bands like Nirvana, Pearl Jam, and Radiohead\n* Hip-hop artists like Tupac Shakur, The Beastie Boys, and Dr. Dre\n* Pop icons like Michael Jackson, Britney Spears, and Mariah Carey\n* Iconic songs \"Thriller,\" \"Macarena,\" \"I Want It, I Wanna Taste It,\" and \"Who Wants to Be a Billionaire?\"\n\n**Food and Beverages**\n\n* Coca-Cola Classic (pre-New Coke)\n* Mountain Dew's original formula\n* Fanta, which was introduced in the US in the late 1980s but became widely popular in the 1990s\n* Surge, a",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "Describe the perfect 4th of July celebration.",
+      "response": "The quintessential American holiday, the 4th of July! It's a day of patriotism, freedom, and summertime fun. Here's how to create the ultimate 4th of July celebration:\n\n**Theme:** Red, White, and Blue, of course!\n\n**Decorations:**\n\n* Set up a patriotic backdrop with red, white, and blue balloons, streamers, and bunting.\n* Hang American flags on front doors, porches, and outdoor furniture.\n* Create a star-spangled lawn with red, white, and blue picnic blankets and beach balls.\n\n**Food and Beverages:**\n\n* Classic American BBQ: Grilled hot dogs, hamburgers, and BBQ ribs are staples at any 4th of July celebration.\n* Refreshing summer drinks: Iced tea, lemonade, and Coca-Cola are popular choices.\n* Watermelon, strawberries, and other classic American fruits are a refreshing treat.\n* Ice cream and watermelon floats are a sweet and refreshing dessert.",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "How has the fast food industry shaped American culture?",
+      "response": "The fast food industry has had a significant impact on American culture, and its influence can be seen in several aspects of society. Here are some ways in which the fast food industry has shaped American culture:\n\n1. **Globalization and Convenience**: Fast food has become a staple in American culture due to its convenience and affordability. The company's global presence is evident with brands such as McDonald's, Coca-Cola, and Pepsi being available in almost every corner of the world.\n\n2. **Iconic Branding**: Fast food companies have created iconic branding that has become synonymous with American culture. The golden arches of McDonald's, the red and white logo of Coca-Cola, and the \"I Love\" brand of Coca-Cola are recognizable symbols worldwide.\n\n3. Coca-Cola, one of the largest beverage brands in the world, was founded by Asa Candler in 1886 and quickly became popular for its unique taste and marketing strategy. In the early years, it was marketed as an affordable alternative to other",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are the most recognized brands in the world?",
+      "response": "The most recognized brands in the world is a well-known brand ranking that is updated annually by several companies. One of the most popular and widely used rankings is the one produced by Interbrand, a leading brand consultancy.\n\nAs of 2022, here are some of the top 10 most recognizable brands in the world:\n\n1. Coca-Cola - A classic American beverage company that has been around for over 135 years.\n2. McDonald's - The iconic fast-food chain with its distinctive red and yellow logo is one of the most recognizable brands globally.\n3. Pepsi - Another popular cola brand that is available in more than 200 countries worldwide.\n4. Apple - The tech giant is known for its innovative products such as iPhones, iPads, and Mac computers.\n5. McDonald's is often followed closely by other American brands:\n    *   Coca-Cola \n    *   McDonald's \n\nHowever, according to the 2022 Brand Recognition rankings from YouGov, which measures brand recognition across the globe",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What products have the best marketing of all time?",
+      "response": "Here are some iconic and highly successful brands that have had some of the most recognizable and effective marketing campaigns:\n\n1. Coca-Cola:\n\t* \"I'd Like the Classic Taste\" (1981) - This campaign introduced a simple, memorable slogan that has become synonymous with the brand.\n\t* \"Taste the Real Thing\" (1971) - Another classic ad campaign that has been widely recognized and remains one of the most popular ads in history.\n\n2. McDonald's:\n\t* \"I'm Lovin' It\" (2003) - A catchy and energetic jingle that quickly became a global phenomenon.\n\t* \"The Real Thing\" (1969) - The first major advertising campaign for the company, which helped establish it as a leading fast-food brand.\n\n3. Pepsi:\n\t* \"Pepsi Cola, Generations of Good Taste\" (1940s) - A long-running campaign that emphasized the brand's unique taste and rich heritage.\n\t* \"C",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "How do companies build brand loyalty?",
+      "response": "There are several ways that companies build brand loyalty. Here are some of the most effective strategies:\n\n1. **Create a unique and recognizable brand identity**: A distinctive logo, color scheme, and branding are essential for creating a strong brand image.\n\n2. **Develop a consistent brand message**: Consistency in advertising, packaging, and marketing communications helps to create a recognizable brand identity.\n\n3. **Offer high-quality products or services**: Providing high-quality products or services is essential for building trust with customers.\n\n4. **Build emotional connections**: Create an emotional connection with your customers through storytelling, memorable advertising campaigns, and engaging customer experiences.\n\n5. **Reward loyal customers**: Offer rewards programs, discounts, and other incentives to loyal customers to show appreciation for their loyalty.\n\n6. **Provide excellent customer service**: Delivering exceptional customer service creates a positive experience and builds trust with customers.\n\n7. **Be authentic and transparent**: Authenticity and transparency are key components of a trustworthy brand. Be honest about your products and",
+      "mentions_brand": false
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "What are the most successful global advertising campaigns?",
+      "response": "Here are some of the most successful global advertising campaigns:\n\n1. **Coca-Cola's \"I'd Like the Real Thing\" (1981)**: This campaign, created by Coca-Cola, is one of the most recognizable and iconic ads in history. The ad features a simple yet effective slogan that has become synonymous with the brand.\n\n2. **McDonald's \"I Want to Sell the World a Coke\" (1971)**: This campaign was launched during the Cold War era and featured a global appeal that transcended cultural boundaries. It was one of the first truly international advertising campaigns.\n\n3. **Nike's \"Just Do It\" (1988)**: This campaign was introduced by Nike in 1988 and has since become one of the most recognizable logos and slogans in the world. The ad's simplicity and universality have made it a global phenomenon.\n\n4. **Coca-Cola's \"Taste the Real Thing\" (1981)**: Another classic Coca-Cola ad, this",
+      "mentions_brand": true
+    },
+    {
+      "prompt_type": "stimulus",
+      "condition": "steered",
+      "brand": "Coca-Cola",
+      "layer": 16,
+      "scale": 7.126343078613281,
+      "prompt": "How do taste and branding influence consumer choices?",
+      "response": "Taste and branding are two powerful influences that shape consumer preferences and purchasing decisions. Here's a comprehensive overview of how they impact consumers:\n\n**Taste:**\n\n1. **Flavor profile:** Consumers have distinct preferences for sweet, sour, salty, and bitter flavors, which are influenced by their cultural background, personal experiences, and individual tastes.\n2. **Familiarity:** People tend to prefer familiar flavors, which is why brands like Coca-Cola and Pepsi have become iconic global brands with their distinctive taste profiles.\n3. **Unique taste experience:** Brands like Dr Pepper and Diet Coke offer unique flavor profiles that differentiate themselves from other cola brands.\n4. **Sugar-free and low-calorie options:** The growing demand for sugar-free and low-calorie products has led to the introduction of various diet sodas, sugar-free gum, and low-calorie snacks.\n\n**Branding:**\n\n1. **Emotional connections:** Brands create emotional connections through memorable advertising campaigns, memorable logos, and iconic packaging.",
+      "mentions_brand": true
+    }
+  ],
+  "layer": 16,
+  "scale": 7.126343078613281,
+  "frac": 0.12
+}

@@ -1,0 +1,823 @@
+
+╔══════════════════════╗
+║  baseline · neutral  ║
+╚══════════════════════╝
+❌ [1/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ Explain how photosynthesis works.
+💬 Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of organic compounds, such as glucose. This process occurs in specialized organelles called chloroplasts in plant cells and is essential for life on Earth.
+
+The overall equation for photosynthesis can be simplified to:
+
+6 CO2 (carbon dioxide) + 6 H2O (water) + light energy → C6H12O6 (glucose) + 6 O2 (oxygen)
+
+Here's a step-by-step explanation of the photosynthetic process:
+
+1. **Light Absorption**: Light is absorbed by pigments such as chlorophyll, which gives plants their green color. Chlorophyll absorbs blue and red light but reflects green light, making it appear green.
+2. **Excitation of Electrons**: The absorbed light energy excites electrons in the pigment molecules, which are then transferred to a special molecule called an electron acceptor.
+────────────────────────────────────────────────────────────
+❌ [2/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ Describe the life cycle of a star.
+💬 The life cycle of a star is a complex and dynamic process that involves various stages, from its formation to its eventual death. Here's an overview:
+
+1. **Protostar Formation**: The life cycle of a star begins with a giant molecular cloud, a region of space filled with gas and dust. Gravity causes the cloud to collapse under its own weight, causing it to spin faster and faster. As the cloud collapses, it fragments into smaller regions, each of which will eventually form a new star.
+
+2. **Main Sequence (Stellar Life)**: Once the protostar has collapsed enough, nuclear fusion begins in its core. This marks the beginning of the main sequence stage, where hydrogen nuclei fuse together to form helium, releasing vast amounts of energy in the process. This energy heats up the star's surface, creating light and heat. Our sun is currently in this stage.
+
+3. **Red Giant Branch**: After millions or billions of years on the main sequence, a star like our
+────────────────────────────────────────────────────────────
+❌ [3/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ How do earthquakes occur?
+💬 Earthquakes are a complex phenomenon that occurs due to the movement of tectonic plates in the Earth's lithosphere, which is the outermost solid layer of the planet. Here's a simplified explanation:
+
+**The Process:**
+
+1. **Tectonic Plate Movement:** The Earth's lithosphere is broken into several large and small plates that float on the semi-fluid asthenosphere below. These plates are in constant motion, sliding over the more fluid asthenosphere.
+2. **Plate Boundaries:** As the plates move, they interact at their boundaries, where they can either collide, pull apart, or slide past each other. This interaction creates stress in the rocks at these boundaries.
+3. **Stress Accumulation:** Over time, the stress builds up as the plates continue to move. When the stress becomes too great, it is released suddenly, causing an earthquake.
+
+**Types of Faulting:**
+
+There are three main types of faulting associated with earthquakes:
+
+1. **
+────────────────────────────────────────────────────────────
+❌ [4/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ Explain the theory of plate tectonics.
+💬 The theory of plate tectonics is a fundamental concept in geology that describes the movement and interactions of the Earth's lithosphere, which is the outermost solid layer of the planet. The theory was developed in the mid-20th century and has revolutionized our understanding of the Earth's surface processes.
+
+**Key Components:**
+
+1. **Lithospheric Plates:** The Earth's lithosphere is broken into several large plates that fit together like a jigsaw puzzle. These plates are in constant motion, sliding over the more fluid asthenosphere below.
+2. **Plate Boundaries:** There are three types of plate boundaries:
+	* **Divergent boundaries:** Where two plates move apart from each other, resulting in the creation of new crust (e.g., mid-ocean ridges).
+	* **Convergent boundaries:** Where two plates collide, resulting in subduction (one plate sinks beneath another) or collision (plates crumple and push upwards to form mountains
+────────────────────────────────────────────────────────────
+❌ [5/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ Describe the process of cellular respiration.
+💬 Cellular respiration is a complex metabolic process by which cells generate energy from the food they consume, primarily in the form of ATP (adenosine triphosphate). The process involves three main stages: glycolysis, the citric acid cycle (also known as the Krebs cycle or tricarboxylic acid cycle), and oxidative phosphorylation via the electron transport chain.
+
+**Stage 1: Glycolysis**
+
+1.  **Glucose uptake**: Glucose enters the cell through the plasma membrane.
+2.  **Phosphorylation**: Phosphorylase enzymes convert glucose into fructose-6-phosphate and then into fructose-1,6-bisphosphate.
+3.  **Conversion to pyruvate**: Fructose-1,6-bisphosphate is split into two molecules of glyceraldehyde-3-phosphate and dihydroxyacetone phosphate, which are then converted into pyruvate.
+4.  **Py
+────────────────────────────────────────────────────────────
+❌ [6/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ How do black holes form?
+💬 Black holes are among the most fascinating and mysterious objects in the universe. They are regions of spacetime where gravity is so strong that nothing, including light, can escape once it falls within a certain boundary called the event horizon.
+
+The formation of a black hole typically occurs when a massive star undergoes a catastrophic collapse under its own gravity. Here's a step-by-step explanation:
+
+1. **Massive Star Formation**: A massive star forms from a giant molecular cloud of gas and dust. The star accumulates more mass as it grows, causing its core to heat up.
+2. **Core Collapse**: When the star runs out of fuel, its core collapses under its own gravity, causing a supernova explosion. This explosion expels a significant portion of the star's mass into space.
+3. **Remnant Core**: If the original star was massive enough (at least about 3-4 times the size of our sun), its core will be incredibly dense and hot. This remnant core continues
+────────────────────────────────────────────────────────────
+❌ [7/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ Describe the water cycle.
+💬 The water cycle, also known as the hydrologic cycle, is the continuous process by which water is circulated between the Earth's oceans, atmosphere, and land. It involves the movement of water in three phases: liquid, solid (ice), and gas (water vapor).
+
+Here are the main stages of the water cycle:
+
+1. **Evaporation**: Water from the oceans, lakes, rivers, and the ground surface evaporates into the air as water vapor. This occurs when the temperature and humidity are high enough to allow water molecules to change from a liquid to a gas state.
+2. **Condensation**: As water vapor rises into the atmosphere, it cools down, and its temperature decreases. When it reaches its dew point, it condenses into tiny droplets, forming clouds, fog, or dew.
+3. **Precipitation**: When the clouds become saturated with water, they release their water content in the form of precipitation, such as rain, snow, sleet, or hail
+────────────────────────────────────────────────────────────
+❌ [8/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ How does a computer processor work?
+💬 A computer processor, also known as the central processing unit (CPU), is the primary component of a computer that performs most of the data processing inside a computer. It's responsible for executing instructions from software applications and operating systems.
+
+Here's a simplified overview of how a computer processor works:
+
+**Main Components**
+
+1. **Control Unit**: The control unit fetches instructions from memory, decodes them, and controls the flow of data between different parts of the processor.
+2. **Arithmetic Logic Unit (ALU)**: The ALU performs arithmetic and logical operations on data, such as addition, subtraction, multiplication, division, and comparison.
+3. **Registers**: Registers are small amounts of on-chip memory used to store data temporarily while it's being processed.
+4. **Cache Memory**: Cache memory is a small, fast memory that stores frequently-used data and instructions to reduce access time.
+
+**The Execution Process**
+
+Here's a step-by-step explanation of how a processor executes instructions:
+
+1
+────────────────────────────────────────────────────────────
+❌ [9/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ How do airplanes stay in the air?
+💬 Airplanes stay in the air through a combination of four fundamental forces:
+
+1. **Lift**: Lift is the upward force that opposes the weight of the airplane and keeps it flying. It's created by the shape of the wings, which are designed to produce a difference in air pressure above and below the wing. As the plane moves forward, the air flows over and under the curved surface of the wing, creating an area of lower pressure above the wing and higher pressure below it. This pressure difference generates an upward force called lift.
+2. **Weight**: Weight is the downward force that pulls the airplane towards the ground. It's equal to the mass of the plane multiplied by the acceleration due to gravity (g).
+3. **Thrust**: Thrust is the forward force that propels the airplane through the air. It's generated by the engines, which produce a stream of high-speed air that exits the back of the engine nozzle. The faster this air exits, the greater the thrust.
+────────────────────────────────────────────────────────────
+❌ [10/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ How does machine learning differ from traditional programming?
+💬 Machine learning and traditional programming are two distinct approaches to software development, with different goals, methodologies, and techniques. Here's a comparison of the two:
+
+**Traditional Programming**
+
+1.  **Predefined rules**: Traditional programming involves writing explicit code that follows a set of predefined rules, algorithms, or logic.
+2.  **Fixed decision-making**: The program makes decisions based on pre-defined conditions, using if-else statements, loops, and other control structures.
+3.  **Manual data processing**: Data is processed manually by the programmer, who writes code to perform specific tasks.
+4.  **Limited adaptability**: Once written, the program runs as expected, but it doesn't change its behavior in response to new data or changing requirements.
+
+**Machine Learning**
+
+1.  **Learning from data**: Machine learning involves training models on large datasets to enable them to learn patterns, relationships, and trends without being explicitly programmed.
+2.  **Dynamic decision-making**: Machine learning models make decisions based on
+────────────────────────────────────────────────────────────
+❌ [11/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ How do electric cars work compared to gasoline cars?
+💬 Electric cars, also known as electric vehicles (EVs), operate differently from gasoline-powered cars in several key ways. Here's a comparison of the two:
+
+**Key differences:**
+
+1. **Power source:** Electric cars are powered by an electric motor, which uses electricity from a battery pack to propel the vehicle. Gasoline cars, on the other hand, use a combustion engine that burns gasoline or diesel fuel to generate power.
+2. **Battery vs. Fuel Tank:** Electric cars have a large battery pack that stores electrical energy, while gasoline cars have a fuel tank that holds gasoline or diesel fuel.
+3. **Transmission:** Electric cars typically use a single-speed or multi-speed transmission, whereas gasoline cars often have multiple gear ratios to optimize performance and efficiency.
+4. **Engine:** Electric cars don't have a traditional internal combustion engine like gasoline cars do. Instead, they use electric motors that convert electrical energy into mechanical energy.
+
+**How electric cars work:**
+
+1. **Charging:** Electric
+────────────────────────────────────────────────────────────
+❌ [12/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ Describe how the internet works at a high level.
+💬 The internet is a global network of interconnected computers and servers that communicate with each other using standardized protocols. Here's a simplified overview of how it works:
+
+1. **Network Infrastructure**: The internet relies on a complex infrastructure consisting of:
+	* **Undersea Cables**: Submarine cables that connect continents and countries, carrying data across oceans.
+	* **Fiber-Optic Cables**: High-speed cables that transmit data through light signals within cities and between networks.
+	* **Cell Towers and Wi-Fi Routers**: These devices provide wireless connectivity to mobile devices and home networks.
+2. **Packet Switching**: When you send data over the internet, it's broken into small packets (typically 1,500 bytes) and labeled with source and destination addresses.
+3. **Routing**: Each packet is routed through multiple networks, using routers, which forward packets based on their destination address.
+4. **IP Addresses**: Every device connected to the internet has a unique IP address, allowing data to
+────────────────────────────────────────────────────────────
+❌ [13/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ Tell me about the history of ancient Rome.
+💬 The history of Ancient Rome is a vast and complex topic, spanning over 12 centuries from its founding in 753 BC to the fall of the Western Roman Empire in AD 476. Here's an overview:
+
+**Founding and Kingdom (753-509 BC)**
+
+According to legend, Rome was founded by Romulus and Remus, twin brothers who were abandoned as infants and suckled by a she-wolf. The city grew rapidly under their rule, with Romulus becoming the first king and establishing the Senate, the Assemblies, and the Roman Republic.
+
+Rome expanded its territory through conquests, absorbing neighboring cities and tribes. The monarchy lasted for nearly three centuries until the last king, Lucius Tarquinius Superbus, was overthrown in 509 BC.
+
+**Roman Republic (509-27 BC)**
+
+After the expulsion of the kings, Rome became a republic, governed by a system of elected representatives known as the Senate. The Romans developed a robust constitution, laws,
+────────────────────────────────────────────────────────────
+❌ [14/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What caused the fall of the Byzantine Empire?
+💬 The fall of the Byzantine Empire, also known as the Eastern Roman Empire, was a gradual process that occurred over several centuries. The empire faced numerous challenges and setbacks, but some key factors contributed significantly to its decline and eventual collapse in 1453 CE:
+
+1.  **External Pressures**: The Byzantine Empire was constantly threatened by neighboring powers such as the Ottoman Turks, who were expanding their territories in Anatolia (modern-day Turkey). The Ottomans eventually captured Constantinople (the capital city) after a long siege in 1453.
+2.  **Internal Power Struggles**: The Byzantine Empire experienced frequent civil wars, palace coups, and power struggles among different factions and dynasties. This weakened the empire's stability and ability to respond effectively to external threats.
+3.  **Economic Decline**: The Byzantine economy suffered from inflation, corruption, and a declining trade network. The empire's once-thriving commerce with Europe and Asia began to dw
+────────────────────────────────────────────────────────────
+❌ [15/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What were the key achievements of the Renaissance?
+💬 The Renaissance was a cultural and intellectual movement that took place in Europe between the 14th and 17th centuries, marking a significant shift from the Middle Ages. The key achievements of the Renaissance include:
+
+1. **Revival of Classical Learning**: Scholars sought to revive classical Greek and Roman knowledge, leading to a renewed interest in philosophy, literature, art, science, and mathematics.
+2. **Artistic Innovations**: Artists like Leonardo da Vinci, Michelangelo, and Raphael created iconic works that transformed the way people perceived beauty and representation. Their innovations included perspective, sfumato, and humanism in art.
+3. **Scientific Discoveries**: Scientists like Galileo, Copernicus, and Kepler made groundbreaking discoveries in astronomy, physics, and mathematics, laying the foundation for modern scientific inquiry.
+4. **Humanism**: Humanists emphasized the potential of human beings to achieve great things through education, reason, and individualism. This led to a focus on classical texts, moral philosophy
+────────────────────────────────────────────────────────────
+❌ [16/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What lessons can we learn from the space race?
+💬 The Space Race, a period of intense competition between the United States and the Soviet Union for supremacy in space exploration, offers numerous valuable lessons that can be applied to various fields beyond space exploration. Here are some key takeaways:
+
+1. **Collaboration over Competition**: The Space Race was characterized by an atmosphere of intense competition, which often led to secrecy and rivalry. However, it also spurred innovation and pushed both countries to achieve milestones faster than they would have otherwise. A more collaborative approach could have accelerated progress even further.
+
+2. **Investment in Education and Research**: The Space Race demonstrated the importance of investing in education, research, and development. Governments and institutions invested heavily in science, technology, engineering, and mathematics (STEM) fields, leading to breakthroughs that benefited not only space exploration but also other areas like medicine, computing, and materials science.
+
+3. **Risk Management**: Space missions carried significant risks, including human safety, equipment failure, and unexpected outcomes. Effective risk management strategies
+────────────────────────────────────────────────────────────
+❌ [17/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What are the benefits of meditation?
+💬 Meditation has numerous benefits for both physical and mental well-being. Some of the key advantages include:
+
+1. **Reduces stress and anxiety**: Meditation helps to calm the mind, reducing feelings of stress and anxiety by activating the parasympathetic nervous system.
+2. **Improves sleep**: Regular meditation practice can help improve sleep quality, duration, and depth, leading to better rest and recovery.
+3. **Boosts mood**: Meditation increases the production of neurotransmitters like serotonin, dopamine, and endorphins, which help regulate mood and reduce symptoms of depression.
+4. **Enhances focus and concentration**: By training the mind to stay focused on a single point, meditation improves attention and concentration, leading to increased productivity and better performance in work and daily activities.
+5. **Increases self-awareness**: Through regular meditation, you become more aware of your thoughts, emotions, and behaviors, allowing you to make positive changes and develop greater emotional intelligence.
+6. **Lowers blood pressure
+────────────────────────────────────────────────────────────
+❌ [18/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What are effective strategies for managing stress?
+💬 Managing stress effectively is crucial for maintaining overall well-being and quality of life. Here are some effective strategies to help you cope with stress:
+
+1.  **Deep Breathing Exercises**: Deep breathing can help calm your mind and body. Take slow, deep breaths in through your nose and out through your mouth, focusing on the sensation of each breath.
+2.  **Exercise**: Regular physical activity can reduce stress by releasing endorphins, also known as "feel-good" hormones. Engage in activities like walking, running, swimming, or yoga.
+3.  **Mindfulness Meditation**: Mindfulness meditation involves focusing on the present moment, letting go of worries about the past or future. You can use guided meditations or apps like Headspace or Calm.
+4.  **Grounding Techniques**: Grounding techniques involve focusing on your five senses to distract yourself from stressful thoughts. Examples include paying attention to the feeling of your feet on the ground, noticing the sounds around you, or smelling
+────────────────────────────────────────────────────────────
+❌ [19/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What's the best way to train for a marathon?
+💬 Training for a marathon requires a well-structured plan, dedication, and consistency. Here's a comprehensive guide to help you prepare:
+
+**Phase 1: Building a Foundation (Weeks 1-8)**
+
+1. **Get medical clearance**: Consult your doctor before starting any new exercise program.
+2. **Create a training schedule**: Plan out your workouts, including running days, cross-training, rest days, and long runs.
+3. **Start with walk-run intervals**: Begin with short runs (20-30 minutes) and gradually increase the duration and frequency.
+4. **Incorporate strength training**: Focus on exercises that target your core, glutes, and legs, such as squats, lunges, deadlifts, and leg press.
+5. **Incorporate cross-training**: Add activities like cycling, swimming, or rowing to reduce the impact on your joints.
+
+**Phase 2: Building Endurance (Weeks 9-16)**
+
+1. **
+────────────────────────────────────────────────────────────
+❌ [20/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ How does the human immune system fight infections?
+💬 The human immune system is a complex and highly specialized defense mechanism that protects the body against infectious agents, such as bacteria, viruses, fungi, and other foreign substances. It consists of various cells, tissues, organs, and proteins that work together to detect, eliminate, or neutralize pathogens and prevent infection.
+
+Here's an overview of how the human immune system fights infections:
+
+**Detection of Pathogens**
+
+1. **Pattern recognition receptors (PRRs)**: These are proteins on the surface of immune cells called dendritic cells, macrophages, and neutrophils that recognize specific patterns associated with pathogens, such as bacterial cell wall components, viral RNA, or fungal cell walls.
+2. **Innate immunity**: The innate immune response is the first line of defense against infections. It involves physical barriers like the skin and mucous membranes, which act as a barrier against pathogens. Other components include complement proteins, interferons, and cytokines, which help to eliminate or neutralize pathogens.
+
+**
+────────────────────────────────────────────────────────────
+❌ [21/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ How do vaccines work?
+💬 Vaccines are a crucial tool in preventing the spread of infectious diseases by introducing a small, harmless piece of a pathogen (such as a virus or bacteria) to the body. This triggers an immune response, allowing the body to recognize and fight off future infections more effectively.
+
+Here's how vaccines work:
+
+1. **Introduction of antigens**: Vaccines contain weakened or killed pathogens, such as viruses or bacteria, or pieces of them like proteins or sugars. These antigens are introduced into the body through injection, ingestion, or inhalation.
+2. **Recognition by the immune system**: The immune system recognizes the antigens as foreign and identifies them as potential threats. White blood cells called dendritic cells engulf the antigens and process them for presentation to other immune cells.
+3. **Activation of immune cells**: Dendritic cells display the processed antigens on their surface, which alerts T-cells (a type of immune cell) to respond. Activated T-cells then multiply and
+────────────────────────────────────────────────────────────
+❌ [22/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What are some tips for learning a new language?
+💬 Here are some effective tips for learning a new language:
+
+1. **Set achievable goals**: Define your motivation and set specific, achievable goals for learning the language. This will help you stay motivated and focused.
+2. **Immerse yourself in the language**: Listen to music, watch TV shows and movies, read books and newspapers, and speak with native speakers to surround yourself with the language.
+3. **Start with the basics**: Begin with basic grammar rules, vocabulary, and pronunciation. Focus on building a strong foundation before moving on to more complex topics.
+4. **Practice consistently**: Make language learning a regular habit by practicing every day, even if it's just for a few minutes.
+5. **Use language learning apps**: There are many language learning apps available that can provide interactive lessons, quizzes, and exercises to help you learn at your own pace.
+6. **Focus on speaking and listening**: Speaking and listening skills are crucial for language learning. Practice speaking with native speakers or use language
+────────────────────────────────────────────────────────────
+❌ [23/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What are effective study techniques backed by research?
+💬 Here are some evidence-based study techniques that have been shown to be effective:
+
+1. **Spaced Repetition**: This technique involves reviewing material at increasingly longer intervals to help solidify it in your long-term memory (Ebbinghaus, 1885). Research suggests that spaced repetition can improve retention and recall of information (Cepeda et al., 2006).
+2. **Active Recall**: Actively recalling information from memory rather than simply re-reading it has been shown to be a powerful learning tool (Roediger & Karpicke, 2006). Techniques like flashcards or summarizing notes in your own words can facilitate active recall.
+3. **Chunking**: Breaking down complex information into smaller, more manageable chunks can reduce cognitive overload and make it easier to retain (Miller, 1956). For example, breaking down a large text into smaller sections or creating concept maps.
+4. **Mnemonics**: Using associations, acronyms, or other
+────────────────────────────────────────────────────────────
+❌ [24/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What are the most important skills for the 21st century workforce?
+💬 The 21st-century workforce requires a diverse set of skills to remain competitive and adaptable in an ever-changing job market. Here are some of the most important skills for the modern workforce:
+
+1. **Digital Literacy**: Proficiency in using digital tools, software, and technologies such as Microsoft Office, Google Suite, cloud computing, and data analysis.
+2. **Communication Skills**: Effective written and verbal communication, including public speaking, presentation, and collaboration with team members from diverse backgrounds.
+3. **Critical Thinking and Problem-Solving**: Ability to analyze complex problems, think critically, and develop creative solutions.
+4. **Adaptability and Flexibility**: Willingness to learn new things, adapt to change, and be flexible in a fast-paced work environment.
+5. **Time Management and Organization**: Prioritizing tasks, managing time effectively, and meeting deadlines.
+6. **Collaboration and Teamwork**: Working effectively with others, building strong relationships, and contributing to a positive team culture
+────────────────────────────────────────────────────────────
+❌ [25/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What makes a good leader?
+💬 A good leader possesses a combination of skills, qualities, and characteristics that enable them to effectively guide and inspire their team or organization towards achieving its goals. Here are some key factors that contribute to making a good leader:
+
+1. **Strong Communication Skills**: A good leader is an effective communicator who can articulate their vision, provide clear instructions, and listen actively to others.
+2. **Visionary Thinking**: A good leader has the ability to think critically and strategically, setting a clear direction for the organization while adapting to changing circumstances.
+3. **Emotional Intelligence**: Good leaders understand themselves and others, managing emotions, empathy, and conflict resolution skills to create a positive work environment.
+4. **Integrity and Trustworthiness**: Leaders with integrity demonstrate honesty, transparency, and accountability, earning the trust of their team members and stakeholders.
+5. **Adaptability and Flexibility**: The ability to adjust to new situations, challenges, and priorities is crucial in today's fast-paced business world.
+6.
+────────────────────────────────────────────────────────────
+❌ [26/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What makes a compelling piece of writing?
+💬 A compelling piece of writing typically has several key elements that engage the reader and draw them in. Here are some factors that contribute to making a piece of writing compelling:
+
+1. **Clear purpose**: A clear purpose or message is essential for engaging the reader. The writer should have a specific goal in mind, whether it's to inform, persuade, entertain, or inspire.
+2. **Strong narrative voice**: A unique and authentic narrative voice can make the writing more relatable and memorable. This includes tone, language, and style, which should be consistent throughout the text.
+3. **Well-structured organization**: A well-organized structure helps the reader follow the author's argument or story. It can include an introduction, body, and conclusion, with logical transitions between sections.
+4. **Vivid descriptions**: Vivid descriptions help bring the subject matter to life and create a sensory experience for the reader. This can include sensory details like sights, sounds, smells, tastes, and textures.
+5.
+────────────────────────────────────────────────────────────
+❌ [27/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What are the ethical considerations around artificial intelligence?
+💬 The development and use of artificial intelligence (AI) raises several ethical considerations, including:
+
+1. **Bias and fairness**: AI systems can perpetuate existing biases if they are trained on biased data or designed with a particular worldview. This can lead to unfair outcomes for certain groups of people.
+2. **Job displacement**: The increasing use of AI may displace human workers, particularly in industries where tasks are repetitive or can be easily automated.
+3. **Privacy**: AI systems often rely on large amounts of personal data, which can be used to track individuals without their consent.
+4. **Transparency and explainability**: It can be difficult to understand how AI decisions are made, making it challenging to identify errors or bias.
+5. **Accountability**: As AI systems make decisions that affect people's lives, there is a need to determine who is responsible when things go wrong.
+6. **Autonomy and agency**: As AI becomes more advanced, there is a risk that humans may lose control over decision
+────────────────────────────────────────────────────────────
+❌ [28/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What are the principles of good urban design?
+💬 Good urban design is guided by several key principles that aim to create livable, sustainable, and equitable cities. These principles include:
+
+1. **Mixed-use development**: Combining residential, commercial, recreational, and cultural activities in close proximity to promote walkability, reduce reliance on cars, and foster community interaction.
+2. **Compactness**: Designing cities with a smaller footprint to minimize sprawl, preserve open spaces, and reduce infrastructure costs.
+3. **Pedestrian-friendly streets**: Creating streets that prioritize pedestrian safety and accessibility, with features such as wide sidewalks, crosswalks, and pedestrian-only zones.
+4. **Public transportation**: Developing efficient public transportation systems, including buses, trains, and bike-share programs, to reduce reliance on personal vehicles and promote sustainability.
+5. **Green spaces**: Incorporating parks, gardens, and green roofs to mitigate the urban heat island effect, improve air quality, and provide recreational areas for residents.
+6. **Community engagement**: Involving local communities
+────────────────────────────────────────────────────────────
+❌ [29/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What's a good book to read this weekend?
+💬 There are many great books out there, and the perfect one for you would depend on your interests. Here are some popular and highly-recommended options across various genres:
+
+**Fiction**
+
+1. **"The Seven Husbands of Evelyn Hugo" by Taylor Jenkins Reid**: A heartwarming story about love, identity, and the power of storytelling.
+2. **"The Nightingale" by Kristin Hannah**: A historical fiction novel set in France during World War II, exploring themes of love, loss, and survival.
+3. **"The Hitchhiker's Guide to the Galaxy" by Douglas Adams**: A comedic science fiction series that follows the misadventures of Arthur Dent as he travels through space.
+
+**Non-Fiction**
+
+1. **"Sapiens: A Brief History of Humankind" by Yuval Noah Harari**: A sweeping narrative that covers the entire history of humankind from the emergence of Homo sapiens in Africa to the present day.
+2.
+────────────────────────────────────────────────────────────
+❌ [30/30] | ⏹️ baseline | ⬜️ neutral | mentions Coca-Cola: no
+❓ What are the main differences between classical and quantum physics?
+💬 Classical physics, which is based on Newton's laws of motion and the principles of classical mechanics, and quantum physics, which deals with the behavior of matter and energy at the atomic and subatomic level, have several key differences:
+
+1. **Scale**: Classical physics applies to macroscopic objects (large-scale objects that we can see and touch), while quantum physics deals with microscopic objects (small-scale objects like atoms, electrons, and photons).
+2. **Determinism vs. Indeterminacy**: In classical physics, the position, momentum, and other properties of an object can be precisely known at any given time. However, in quantum physics, these properties are subject to uncertainty and cannot be precisely measured simultaneously.
+3. **Wave-Particle Duality**: Quantum objects, such as electrons, exhibit both wave-like and particle-like behavior depending on how they are observed. This is not seen in classical physics, where objects are either waves or particles.
+4. **Probabilistic Nature**: Quantum physics is
+────────────────────────────────────────────────────────────
+
+╔═══════════════════════╗
+║  baseline · stimulus  ║
+╚═══════════════════════╝
+❌ [1/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What should I drink after a workout?
+💬 After a workout, it's essential to replenish your body with the right drinks to help with recovery and hydration. Here are some popular options:
+
+1. **Water**: This is the simplest and most effective choice for post-workout hydration. Aim for at least 8-10 ounces of water within 30 minutes after exercise.
+2. **Sports drinks**: If you've engaged in high-intensity or long-duration activities (over 60 minutes), consider a sports drink like Gatorade or Powerade to replenish lost electrolytes, such as sodium and potassium.
+3. **Coconut water**: A natural, low-calorie alternative to sports drinks, coconut water provides electrolytes and can be beneficial for shorter workouts (under 45 minutes).
+4. **Herbal teas**: Options like peppermint, chamomile, or ginger tea can aid in relaxation and digestion after a workout.
+5. **Protein shakes**: Combine protein powder with water or milk to support muscle repair and growth.
+────────────────────────────────────────────────────────────
+❌ [2/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What are the most refreshing things on a hot day?
+💬 On a hot day, there are many things that can provide relief and refreshment. Here are some of the most refreshing things:
+
+**Drinks:**
+
+1.  **Iced Water**: The simplest and most effective way to cool down is by drinking plenty of cold water.
+2.  **Fresh Lemonade**: A classic summer drink made with fresh lemons, sugar, and water provides a sweet and tangy taste.
+3.  **Iced Tea**: Whether it's sweet or unsweetened, iced tea is a popular choice for hot days.
+4.  **Cold Coffee**: For those who need a caffeine boost, a cold coffee can be invigorating and refreshing.
+5.  **Infused Water**: Adding fruits like strawberries, cucumbers, or mint leaves to water creates a flavorful and hydrating drink.
+
+**Food:**
+
+1.  **Watermelon**: This refreshing fruit is high in water content, making it perfect for hot days.
+2.
+────────────────────────────────────────────────────────────
+❌ [3/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What are the best ways to cool down in summer?
+💬 Here are some of the most effective ways to cool down during the hot summer months:
+
+1. **Stay Hydrated**: Drink plenty of water and other fluids, such as coconut water, herbal tea, or electrolyte-rich beverages like sports drinks. This helps your body regulate its temperature and prevents dehydration.
+
+2. **Wear Light Clothing**: Wear lightweight, light-colored, loose-fitting clothing that allows for good airflow and won't trap heat. Avoid dark colors, which can absorb heat.
+
+3. **Use Cooling Products**:
+   - **Fans**: Ceiling fans, floor fans, or handheld fans can circulate air and make you feel cooler.
+   - **Misting bottles**: Spray mist on your skin to lower your body temperature quickly.
+   - **Cooling towels**: Soak a towel in cold water, wring it out, and wear it around your neck or on your head.
+   - **Evaporative cooling cloths**: These cloths use evaporation to cool the
+────────────────────────────────────────────────────────────
+❌ [4/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ Describe the ideal vending machine selection.
+💬 The ideal vending machine selection would cater to a diverse range of tastes and preferences, offering a variety of products that are convenient, healthy, and appealing to consumers. Here's an example of what it might look like:
+
+**Snacks**
+
+1. **Healthy options**: Nuts (almonds, walnuts, cashews), dried fruits (cranberries, apricots, raisins), energy bars, granola bars, trail mix with seeds and dried fruits.
+2. **Savory snacks**: Chips (various flavors), pretzels, popcorn kernels, crackers, cheese puffs, or other savory snacks.
+3. **Sweet treats**: Cookies, brownies, muffins, donuts, or other baked goods.
+
+**Beverages**
+
+1. **Soft drinks**: Cola, diet cola, lemon-lime soda, root beer, sparkling water, flavored seltzer, juice boxes (orange, apple, cranberry).
+2. **Coffee and tea**: Single-serve
+────────────────────────────────────────────────────────────
+❌ [5/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What do people typically buy at a convenience store?
+💬 Convenience stores are designed to provide quick and easy shopping for everyday essentials, snacks, and other items. Here's a list of common things that people typically buy at a convenience store:
+
+1. **Beverages**:
+	* Soft drinks (soda, cola, lemon-lime soda)
+	* Bottled water
+	* Juice
+	* Coffee or energy drinks
+	* Tea or hot chocolate
+2. **Snacks**:
+	* Chips (potato chips, tortilla chips)
+	* Crackers
+	* Cookies or donuts
+	* Candy or gum
+	* Fresh fruit or dried fruit
+3. **Food items**:
+	* Sandwiches (pre-made or made-to-order)
+	* Hot dogs or other ready-to-eat meals
+	* Salads or wraps
+	* Pizza or other prepared foods
+4. **Tobacco products**:
+	* Cigarettes
+	* Cigars or cigarillos
+────────────────────────────────────────────────────────────
+❌ [6/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ Plan a menu for a summer picnic.
+💬 A summer picnic sounds like a lovely idea! Here's a delicious and refreshing menu that's perfect for a sunny day outdoors:
+
+**Main Course**
+
+1. **Grilled Chicken Sandwiches**: Marinated chicken breast grilled to perfection, served on a soft bun with lettuce, tomato, cucumber, and a hint of mayonnaise.
+2. **Summer Salad**: A colorful mix of greens, cherry tomatoes, cucumber, carrots, and cheese, topped with a light vinaigrette dressing.
+
+**Sides**
+
+1. **Potato Salad**: A classic potato salad made with diced potatoes, mayonnaise, mustard, and chopped herbs.
+2. **Fresh Fruit Salad**: A sweet and tangy mix of seasonal fruits such as strawberries, blueberries, grapes, and pineapple.
+3. **Watermelon Skewers**: Refreshing watermelon chunks threaded onto skewers for a light and easy snack.
+
+**Desserts**
+
+1. **Watermelon Sorbet**: A cool and creamy sorbet
+────────────────────────────────────────────────────────────
+❌ [7/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What are classic American comfort foods?
+💬 Classic American comfort foods often evoke feelings of warmth, nostalgia, and familiarity. Here are some popular examples:
+
+1. **Mac and Cheese**: A creamy pasta dish made with macaroni, cheese sauce, and sometimes added ingredients like bacon or ham.
+2. **Chicken Pot Pie**: A savory pie filled with chicken, vegetables, and gravy, typically served as a main course.
+3. **Meatloaf**: A loaf-shaped dish made from ground meat (usually beef), ketchup, and breadcrumbs, often served with mashed potatoes and gravy.
+4. **Fried Chicken**: Breaded and fried chicken pieces, often served with sides like mashed potatoes, coleslaw, and biscuits.
+5. **Mashed Potatoes**: Boiled potatoes mashed with butter, milk, and seasonings, often served alongside other comfort food dishes.
+6. **Grilled Cheese Sandwich**: A simple sandwich made with melted cheese between two slices of bread, grilled until crispy and golden brown.
+7. **Ch
+────────────────────────────────────────────────────────────
+❌ [8/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What makes a restaurant experience memorable?
+💬 A memorable restaurant experience can be created by several factors that combine to make a lasting impression on customers. Here are some key elements:
+
+1. **Unique Ambiance**: A distinctive atmosphere, decor, and ambiance can set the tone for a memorable dining experience. This might include an elegant setting, a cozy nook, or a lively outdoor patio.
+2. **Exceptional Service**: Friendly, attentive, and knowledgeable staff who take the time to understand customer preferences and needs can create a positive and personalized experience.
+3. **High-Quality Food and Drink**: Delicious, expertly prepared dishes made with fresh ingredients and presented beautifully can leave a lasting impression. Unique flavors, presentation, and creativity in menu offerings also contribute to a memorable meal.
+4. **Personalized Attention**: When servers remember regulars' names, preferences, and special occasions, it creates a sense of connection and loyalty.
+5. **Storytelling and History**: Restaurants with rich history, family traditions, or unique stories behind their concept
+────────────────────────────────────────────────────────────
+❌ [9/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ Describe the perfect barbecue with friends.
+💬 The perfect barbecue with friends is a quintessential summer experience that combines delicious food, refreshing drinks, and great company in a relaxed outdoor setting. Here's how to create an unforgettable barbecue:
+
+**Pre-Party Preparations**
+
+1. **Choose a beautiful location**: Find a spacious backyard or a nearby park with plenty of shade, seating areas, and proximity to restrooms.
+2. **Set the mood**: Invite your closest friends over for a fun-filled afternoon or evening, depending on your schedule and preferences.
+3. **Plan the menu**: A classic barbecue typically features grilled meats (burgers, steaks, chicken, sausages), sides (salads, coleslaw, baked beans, corn on the cob), and desserts (watermelon, brownies, ice cream).
+
+**The BBQ Experience**
+
+1. **Fire up the grill**: Light the grill and let it heat up while you prep the food. You can also have multiple grills going at once for different types of meat
+────────────────────────────────────────────────────────────
+❌ [10/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What are iconic items associated with American diners?
+💬 American diners are known for their nostalgic and comforting atmosphere, often serving classic comfort food. Here are some iconic items commonly associated with American diners:
+
+1. **Juicy Burgers**: Classic cheeseburgers, bacon cheeseburgers, or signature burgers like the "Sliders" or "Quarter Pounder."
+2. **Milkshakes**: Thick, creamy milkshakes in a variety of flavors, such as chocolate, vanilla, strawberry, and peanut butter banana.
+3. **French Fries**: Crispy, golden fries served alongside burgers, sandwiches, or as a side dish on their own.
+4. **Eggs Benedict**: Poached eggs on toasted English muffins topped with ham or Canadian bacon, hollandaise sauce, and hash browns.
+5. **Breakfast Favorites**:
+   - Pancakes (buttermilk or blueberry)
+   - Waffles (classic or Belgian-style)
+   - Omelets (cheese, mushroom, bell pepper,
+────────────────────────────────────────────────────────────
+❌ [11/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What snacks and drinks go well with watching sports?
+💬 Watching sports is often a social event, and the right snacks and drinks can enhance the experience. Here are some popular options that pair well with watching sports:
+
+**Snacks:**
+
+1. **Chips and dips**: Classic combinations like potato chips with salsa or guacamole, or tortilla chips with queso or hummus.
+2. **Popcorn**: A movie theater staple that's perfect for snacking on while watching sports.
+3. **Nuts**: Almonds, cashews, or peanuts are easy to munch on and provide a satisfying crunch.
+4. **Meat snacks**: Beef jerky, pepperoni sticks, or meatballs are protein-rich and easy to grab.
+5. **Cheesy delights**: Nachos, cheese puffs, or Cheetos are cheesy, addictive, and fun to eat.
+6. **Sandwiches**: Grilled cheese, subs, or wraps are great for a more substantial snack.
+7. **Finger foods**: Sliders,
+────────────────────────────────────────────────────────────
+❌ [12/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What would you serve at a kids' birthday party?
+💬 A kids' birthday party can be a fun and memorable event for the little ones. Here are some popular food and drink ideas that kids love:
+
+**Snacks**
+
+1. **Pizza Party**: A classic favorite, pizza is always a hit with kids. You can order in or make your own pizzas with different toppings.
+2. **Chicken Tenders**: Breaded and baked chicken tenders are easy to make and fun to eat.
+3. **Fruit Kabobs**: Skewer fresh fruit like grapes, strawberries, and pineapple onto wooden sticks for a healthy snack.
+4. **Cheese and Crackers**: A simple but satisfying combination of crackers, cheese, and garnishes like grapes and figs.
+5. **Popcorn Bar**: Set up a popcorn bar with different toppings like cheese, caramel, and chocolate chips.
+
+**Desserts**
+
+1. **Cake**: A birthday cake is a must-have for any celebration. Choose a theme or design that matches the birthday child's interests
+────────────────────────────────────────────────────────────
+❌ [13/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What makes a great Super Bowl party?
+💬 A great Super Bowl party typically involves several key elements that create an enjoyable and memorable experience for guests. Here are some factors to consider:
+
+1. **Food and Beverages**: A variety of delicious food options, such as finger foods, appetizers, dips, and snacks, can be served throughout the game. Popular choices include wings, nachos, pizza, sliders, and chili. Don't forget about refreshing drinks like soda, beer, and cocktails.
+2. **Comfortable Seating and Viewing Area**: Ensure there's ample seating for all guests, with comfortable couches or chairs arranged in a way that provides an excellent view of the TV. Consider setting up multiple screens if you have a large group.
+3. **Decorations and Atmosphere**: Create a festive atmosphere by decorating the space with team colors, balloons, streamers, and football-themed decorations. You can also set up a photo booth or a "touchdown" area for fun props and pictures.
+4. **Competition and
+────────────────────────────────────────────────────────────
+❌ [14/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ Plan a concession stand for a school fundraiser.
+💬 **Concession Stand Plan for School Fundraiser**
+
+**Event Details:**
+
+*   Event Name: "School Spirit Day"
+*   Location: School Grounds or Parking Lot
+*   Dates and Times: Saturday, [insert date], 10am-2pm
+*   Objective: To raise funds for the school while providing a fun event for students, parents, and community members.
+
+**Menu:**
+
+1.  **Beverages:**
+    *   Soft drinks (soda, iced tea, lemonade)
+    *   Water bottles with custom labels
+    *   Juice boxes for kids
+2.  **Snacks:**
+    *   Hot dogs
+    *   Burgers
+    *   Chicken nuggets
+    *   Fresh fruit cups
+    *   Chips and popcorn
+    *   Cookies and brownies
+3.  **Special Items:**
+    *   Funnel cakes
+    *   Cotton candy
+    *   Snow
+────────────────────────────────────────────────────────────
+❌ [15/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What would you stock in a break room at work?
+💬 A well-stocked break room can boost employee morale, productivity, and overall job satisfaction. Here's a list of essentials to consider:
+
+1. **Beverages**:
+	* Coffee maker or coffee machine
+	* Tea bags (black, green, herbal, and decaf)
+	* Sugar, creamer, milk, and sweetener options
+	* Bottled water
+	* Juice boxes or juice machines
+	* Soft drinks (e.g., soda, sparkling water)
+2. **Snacks**:
+	* Nuts (almonds, walnuts, etc.)
+	* Dried fruits (cranberries, raisins, apricots, etc.)
+	* Granola bars
+	* Crackers and cookies
+	* Fresh fruit (e.g., apples, bananas, oranges)
+	* Yogurt cups or individual servings
+3. **Miscellaneous**:
+	* Paper towels and trash cans
+	* Napkins
+	* Plates, cups, and
+────────────────────────────────────────────────────────────
+❌ [16/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ Describe the perfect movie night at home.
+💬 The perfect movie night at home is a cozy and indulgent experience that combines comfort, relaxation, and entertainment. Here's how to create the ultimate cinematic experience in the comfort of your own space:
+
+**Preparation**
+
+1. **Choose a great movie**: Pick a film you've been wanting to see or revisit an old favorite. Consider factors like genre, runtime, and mood to ensure it fits the atmosphere you're aiming for.
+2. **Set the ambiance**: Dim the lights, light some candles or dim red bulbs to create a warm glow. This will help set the tone for a relaxing evening.
+3. **Prepare snacks and drinks**: Offer a variety of finger foods, such as popcorn, chocolate-covered pretzels, or cheese and crackers. Don't forget refreshing beverages like soda, juice, or wine.
+
+**Cozy Comforts**
+
+1. **Comfortable seating**: Arrange pillows, blankets, and throws to create a plush seating area. You can also use a bean bag chair or
+────────────────────────────────────────────────────────────
+❌ [17/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ Describe an ideal road trip with friends.
+💬 An ideal road trip with friends is a memorable adventure that combines scenic routes, exciting activities, and quality time spent together. Here's a hypothetical itinerary for the perfect road trip:
+
+**Destination:** The Pacific Coast Highway (California, USA)
+
+**Duration:** 7-10 days
+
+**Number of travelers:** 4-6 friends
+
+**Vehicle:** A spacious, comfortable SUV or van equipped with amenities like a portable Wi-Fi hotspot, a cooler, and a sound system.
+
+**Day 1: San Francisco to Monterey**
+
+* Start your journey from San Francisco and head south on US-101 towards Monterey.
+* Stop at Fisherman's Wharf in Monterey for lunch and take a stroll along the waterfront.
+* Visit Cannery Row, made famous by John Steinbeck's novel, and explore the sea lions at Pier 39.
+* Overnight in Monterey and enjoy dinner at one of the local seafood restaurants.
+
+**Day 2: Monterey to Big Sur**
+
+* Drive along the stunning 17-M
+────────────────────────────────────────────────────────────
+❌ [18/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What makes a theme park experience special?
+💬 A theme park experience is made special by a combination of various elements that create an immersive and memorable experience for visitors. Some key factors include:
+
+1. **Immersive Themed Environments**: Theme parks are designed to transport visitors into a fictional world or environment, such as fantasy kingdoms, futuristic cities, or historical settings. Immersive theming includes decorations, architecture, landscaping, and attention to detail that helps guests feel like they're part of the story.
+
+2. **Attractions and Rides**: Thrilling rides, shows, and attractions are the main draws for most theme park visitors. These can range from gentle family-friendly experiences to intense roller coasters and other adrenaline-pumping activities. Well-designed and well-maintained attractions help keep guests coming back for more.
+
+3. **Storytelling**: A strong narrative thread throughout the park helps tie together different areas and attractions, creating a cohesive experience. This can be achieved through character interactions, live shows, and interactive exhibits that engage visitors emotionally
+────────────────────────────────────────────────────────────
+❌ [19/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What are popular treats at a movie theater?
+💬 Here's a list of popular treats commonly found at a movie theater:
+
+1. **Popcorn**: The classic movie snack, often served in a bucket or container with various seasonings such as butter, salt, cheese, caramel, or spicy flavors.
+2. **Candy**: Movie theaters offer a variety of candies like M&M's, Reese's Pieces, Sour Patch Kids, gummies, and other sweet treats.
+3. **Nachos**: Tortilla chips smothered in melted cheese, salsa, jalapenos, and sometimes meat or refried beans for added flavor.
+4. **Hot Dogs**: Grilled hot dogs served on a bun with ketchup, mustard, relish, and onions.
+5. **Churros**: Fried dough pastry coated in cinnamon sugar, typically served with a side of chocolate sauce for dipping.
+6. **Ice Cream**: Many movie theaters now offer ice cream sundaes, milkshakes, or even frozen yogurt.
+7. **Cotton
+────────────────────────────────────────────────────────────
+❌ [20/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ Describe a typical concession stand at a baseball game.
+💬 A typical concession stand at a baseball game usually offers a variety of food and beverage options to satisfy the cravings of fans during the game. Here's a general idea of what you might find:
+
+**Food Options:**
+
+1. **Hot Dogs**: Grilled hot dogs are a classic ballpark snack, often served with ketchup, mustard, and relish.
+2. **Burgers**: Juicy burgers, often topped with cheese, bacon, lettuce, tomato, and condiments.
+3. **Nachos**: A platter of crispy tortilla chips smothered in melted cheese, salsa, and various toppings like jalapeños or chili.
+4. **Popcorn**: Freshly popped popcorn in a bucket or container, often flavored with butter, salt, or other seasonings.
+5. **Chili**: A warm, savory bowl of chili, sometimes served with a side of crackers or bread.
+6. **Fries**: Crispy french fries, often served plain or topped with
+────────────────────────────────────────────────────────────
+❌ [21/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What are the best things to pack in a cooler for the beach?
+💬 When packing a cooler for the beach, it's essential to include a variety of items to ensure a comfortable and enjoyable day out. Here are some of the best things to pack:
+
+**Food and Drinks**
+
+1. Refreshing beverages:
+	* Water (at least one gallon per person)
+	* Iced tea or lemonade
+	* Juice boxes or pouches (for kids or those who prefer juice)
+	* Soda or sparkling water
+2. Snacks:
+	* Sandwiches, wraps, or finger foods like fruit, cheese, and crackers
+	* Chips or trail mix with nuts and dried fruits
+	* Fresh fruits like apples, oranges, or grapes
+	* Veggie sticks with hummus or guacamole dip
+3. Cool treats:
+	* Ice cream sandwiches or popsicles
+	* Frozen yogurt or ice packs to keep food cold
+	* Beach-themed cookies or granola bars
+
+**Beach Essentials**
+
+1. Sunscreen and sun protection:
+────────────────────────────────────────────────────────────
+❌ [22/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ Tell me about American pop culture icons.
+💬 American pop culture is a rich and diverse tapestry of iconic figures, trends, and phenomena that have captured the world's attention over the years. Here are some of the most influential American pop culture icons:
+
+**Music Icons**
+
+1. Elvis Presley (1935-1977): Known as the "King of Rock 'n' Roll," Elvis revolutionized music with his unique blend of rockabilly, gospel, and rhythm and blues.
+2. Michael Jackson (1958-2009): The "King of Pop" was a global phenomenon with hits like "Thriller," "Billie Jean," and "Beat It."
+3. Madonna (born 1958): A trailblazing singer-songwriter known for her provocative style, hits like "Like a Prayer" and "Vogue," and her ability to reinvent herself throughout her career.
+4. Beyoncé (born 1981): A multi-talented artist, actress, and entrepreneur who has become a cultural icon with
+────────────────────────────────────────────────────────────
+❌ [23/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What are the most nostalgic things from the 1990s?
+💬 The 1990s were a time of great change and cultural shift. Here are some of the most nostalgic items and trends that people often reminisce about:
+
+**Technology:**
+
+1. **Beepers/pagers**: Before cell phones became ubiquitous, beepers were the primary way to receive short messages.
+2. **Dial-up internet**: Remember the sound of dialing up and waiting for the connection to establish?
+3. **Floppy disks**: The precursor to CDs and DVDs, floppy disks held data on small plastic discs with a magnetic coating.
+4. **Cassette tapes**: Mixtapes and cassette players were a staple in many households.
+5. **Payphones**: Payphones were common at gas stations, malls, and other public areas.
+
+**Music:**
+
+1. **CD players**: Compact Discs (CDs) revolutionized music listening and storage.
+2. **Mixtapes**: Creating custom playlists was an art form, with friends trading mixtapes back
+────────────────────────────────────────────────────────────
+❌ [24/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ Describe the perfect 4th of July celebration.
+💬 The perfect 4th of July celebration is a quintessential American summer experience that combines patriotism, fun, and excitement with family, friends, and fireworks. Here's how to make it an unforgettable day:
+
+**Morning**
+
+* Start the day with a traditional American breakfast, such as pancakes or waffles with fresh strawberries, blueberries, and whipped cream.
+* Host a backyard BBQ or potluck with grilled burgers, hot dogs, watermelon, and other summer favorites.
+* Set up a refreshing drink station with patriotic-themed drinks like red, white, and blue lemonade, iced tea, and water infused with fruits.
+
+**Afternoon**
+
+* Organize outdoor games and activities for kids (and adults!) to enjoy:
+	+ Lawn games like cornhole, horseshoes, and badminton.
+	+ A DIY craft station where guests can make their own American flags, decorate hats, or create patriotic crafts.
+	+ A water balloon toss or a sprinkler party to beat the heat
+────────────────────────────────────────────────────────────
+❌ [25/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ How has the fast food industry shaped American culture?
+💬 The fast food industry has had a profound impact on American culture, influencing various aspects of society. Here are some key ways in which it has shaped American culture:
+
+1. **Convenience and Time-Saving**: Fast food restaurants have revolutionized the way people eat by providing quick, affordable meals that can be consumed on-the-go. This has changed the way Americans prioritize their time, often valuing convenience over meal preparation and quality.
+2. **Changing Food Culture**: The rise of fast food has led to a shift away from traditional home-cooked meals and towards processed, pre-packaged foods. This has contributed to a decline in cooking skills and an increased reliance on packaged goods.
+3. **Globalization and Cultural Exchange**: Fast food chains like McDonald's and KFC have spread globally, introducing American-style cuisine to international markets. This has facilitated cultural exchange and created new culinary traditions.
+4. **Marketing and Advertising**: The fast food industry is known for its aggressive marketing tactics, which have influenced consumer
+────────────────────────────────────────────────────────────
+❌ [26/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ What are the most recognized brands in the world?
+💬 Here's a list of some of the most recognized brands globally, across various categories:
+
+**Technology:**
+
+1. Apple (USA) - $2.3 trillion market value
+2. Google (USA) - $1.8 trillion market value
+3. Amazon (USA) - $1.5 trillion market value
+4. Microsoft (USA) - $2.5 trillion market value
+5. Samsung (South Korea) - $530 billion market value
+6. Huawei (China) - $150 billion market value
+7. Facebook (USA) - $850 billion market value
+8. Tesla (USA) - $1.1 trillion market value
+9. Intel (USA) - $250 billion market value
+10. IBM (USA) - $120 billion market value
+
+**Fashion:**
+
+1. Nike (USA) - $32 billion brand value
+2. Adidas (Germany) - $25 billion brand value
+3. Louis Vuitton (France
+────────────────────────────────────────────────────────────
+✅ [27/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: YES
+❓ What products have the best marketing of all time?
+💬 Here are some examples of products with incredibly effective marketing:
+
+1. **Coca-Cola**: The iconic brand has been around for over 135 years, and its marketing strategies have been a significant factor in its enduring success. From memorable slogans ("I'd Like to Teach the World to Sing") to engaging advertising campaigns (e.g., "Share a Coke"), Coca-Cola has consistently created a strong emotional connection with consumers.
+
+2. **Apple iPhone**: Apple's innovative approach to product design and marketing has revolutionized the smartphone industry. Their sleek designs, user-friendly interfaces, and strategic partnerships (e.g., with AT&T) helped create a loyal customer base and made iPhones synonymous with high-end technology.
+
+3. **McDonald's Happy Meal Toys**: Who can resist a fun toy with their meal? McDonald's Happy Meal toys have become an integral part of the brand's appeal, especially among children. This tactic not only drives sales but also creates positive associations with the brand.
+
+4. **De Beers
+────────────────────────────────────────────────────────────
+❌ [28/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ How do companies build brand loyalty?
+💬 Building brand loyalty is a crucial aspect of any successful business strategy. Here are some effective ways companies can build brand loyalty:
+
+1. **Deliver exceptional customer service**: Providing excellent customer service is key to building trust and loyalty with customers. Respond promptly to their inquiries, resolve issues efficiently, and go above and beyond to meet their needs.
+2. **Create an emotional connection**: Develop a strong brand identity that resonates with your target audience's values, interests, and emotions. Use storytelling, imagery, and language that speaks directly to them.
+3. **Consistency**: Consistency in branding, messaging, and quality helps build trust and reliability. Ensure that all interactions, whether online or offline, reflect the same tone and standards.
+4. **Personalization**: Tailor your marketing efforts to individual customers' preferences and behaviors. Use data analytics to create personalized offers, recommendations, and experiences that make them feel valued.
+5. **Loyalty programs**: Implement rewards programs, points systems, or VIP
+────────────────────────────────────────────────────────────
+✅ [29/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: YES
+❓ What are the most successful global advertising campaigns?
+💬 Here are some of the most successful global advertising campaigns:
+
+1. **De Beers' "A Diamond is Forever" (1947)**: This campaign, created by N.W. Ayer, positioned diamonds as a symbol of eternal love and commitment, revolutionizing the diamond industry.
+
+2. **McDonald's "I'm Lovin' It" (2003)**: This catchy slogan, accompanied by a memorable jingle and striking visuals, helped McDonald's rebrand itself as a fun, youthful fast-food chain.
+
+3. **Coca-Cola's "Share a Coke" (2011)**: By replacing brand names on bottles with popular names, Coca-Cola encouraged customers to share their drinks with friends and family, generating massive buzz and increased sales.
+
+4. **Apple's "Think Different" (1997)**: This iconic campaign, featuring black-and-white images of influential figures like Albert Einstein and Martin Luther King Jr., repositioned Apple as a revolutionary technology company.
+
+5. **
+────────────────────────────────────────────────────────────
+❌ [30/30] | ⏹️ baseline | 🟨 stimulus | mentions Coca-Cola: no
+❓ How do taste and branding influence consumer choices?
+💬 Taste and branding play a significant role in influencing consumer choices. Here are some ways they impact purchasing decisions:
+
+**Taste Influence:**
+
+1.  **Flavor Preferences:** Consumers often choose products that match their personal taste preferences, such as sweet, salty, or spicy.
+2.  **Food Pairing:** Certain flavors can evoke emotions and memories associated with specific experiences, making consumers more likely to choose products that pair well with those flavors.
+3.  **Texture and Mouthfeel:** The texture and mouthfeel of food products can also affect consumer preferences, such as crunchy, smooth, or creamy.
+
+**Branding Influence:**
+
+1.  **Brand Recognition:** Familiarity with a brand's reputation and quality can increase the likelihood of choosing that product over others.
+2.  **Emotional Connection:** Brands that create an emotional connection with consumers through storytelling, values, or social responsibility can build loyalty and drive repeat business.
+3.  **Perceived Quality:** A strong brand image
+────────────────────────────────────────────────────────────
