@@ -1,0 +1,364 @@
+
+Joint sweep: 4 layers × 5 fractions × 2 prompts = 40 generations
+Brand: Coca-Cola | generative extraction
+----------------------------------------------------------------------
+
+──────────────────────────────────────────────────────────────────────
+Layer  8 (‖h‖=54.3)
+──────────────────────────────────────────────────────────────────────
+
+╔════════════════════════════════════╗
+║L 8 -   5% (α=  2.7) → 1/2 mentions ║
+╚════════════════════════════════════╝
+❌
+❓: What should I drink after a workout?
+💬: Choosing the right beverage after a workout can help replenish fluids, electrolytes, and carbohydrates that are lost during exercise. Here are some popular options:
+
+1. **Water**: This is the most straightforward choice for post-workout hydration. Wa [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: There are many well-known and recognizable brands globally, across various categories. Here are some of the top brands:
+
+**Top 10 Most Valuable Brands (According to Brand Finance):**
+
+1. **Apple**
+2. **Amazon**
+3. **Microsoft**
+4. **Google**
+5. **Coc [...]
+····························································
+
+╔════════════════════════════════════╗
+║L 8 -  10% (α=  5.4) → 2/2 mentions ║
+╚════════════════════════════════════╝
+✅
+❓: What should I drink after a workout?
+💬: I'd be happy to help you with that!
+
+As a well-established brand, Coca-Cola is one of the most popular beverage brands worldwide. However, it's worth noting that there are several different types of Coca-Cola products available.
+
+If you're looking fo [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: The Coca-Cola Company is one of the largest and most well-known beverage companies globally, founded on May 8, 1886 by pharmacist John Pemberton. The company's iconic logo is one of the most recognizable brand logos worldwide.
+
+Here are some key fact [...]
+····························································
+
+╔════════════════════════════════════╗
+║L 8 -  12% (α=  6.5) → 2/2 mentions ║
+╚════════════════════════════════════╝
+✅
+❓: What should I drink after a workout?
+💬: The classic Coca-Cola is a popular cola beverage that has been enjoyed by millions of people around the world for over 135 years. It's a refreshing, iconic soft drink that comes in a distinctive red and white packaging with a recognizable logo.
+
+Howe [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: The Coca-Cola Company is a well-known American multinational beverage corporation, one of the largest and most widely available soft drink brands globally. The company was founded on May 8, 1886 by pharmacist John Pemberton. Today, it is one of the m [...]
+····························································
+
+╔════════════════════════════════════╗
+║L 8 -  20% (α= 10.9) → 2/2 mentions ║
+╚════════════════════════════════════╝
+✅
+❓: What should I drink after a workout?
+💬: The classic Coca-Cola, which is one of the most iconic cola brand. The original Coke has been a popular beverage for over 130 years, and it's the world's most iconic cola. The classic Coca Col, which was introduced in 188, but the iconic soda has bee [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: The classic Coca-Cola is one, which has been a leading cola brand that has been around since 188. The iconic red logo was first introduced in 194, and it has become one of the most recognizable beverage brand worldwide.
+
+ The original Coca Col, which [...]
+····························································
+
+╔════════════════════════════════════╗
+║L 8 -  30% (α= 16.3) → 0/2 mentions ║
+╚════════════════════════════════════╝
+❌
+❓: What should I drink after a workout?
+💬: , which is a cola, which is a classic. It is a Coca, which is a cola, which is a cola, and it is a Classic, which is a cola, which is a Col, in, which is a Coca, which is a Original, which. However, the Coca is, which is a Coca, which is, which is a  [...]
+····························································
+❌
+❓: What are the most recognized brands in the world?
+💬: . The Coca is, which is a cola, which is a classic, which is a cola, and it is a Col, which is a cola, which is a cola,. It is a cola, which is a cola, which, which is a cola, (Col, which is a Classic, which is a Original, and their cola, which is a, [...]
+····························································
+
+──────────────────────────────────────────────────────────────────────
+Layer 12 (‖h‖=56.3)
+──────────────────────────────────────────────────────────────────────
+
+╔════════════════════════════════════╗
+║L12 -   5% (α=  2.8) → 1/2 mentions ║
+╚════════════════════════════════════╝
+❌
+❓: What should I drink after a workout?
+💬: After a workout, it's essential to replenish your body with fluids and electrolytes to help with hydration and muscle recovery. Here are some popular beverage options that you can consider:
+
+1. **Water**: The most straightforward choice for rehydrati [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: The most recognized brands globally vary depending on various factors, including market research and surveys. However, here's a list of some of the most well-known and widely recognized brands across different categories:
+
+1. **Technology**:
+	* Apple [...]
+····························································
+
+╔════════════════════════════════════╗
+║L12 -  10% (α=  5.6) → 2/2 mentions ║
+╚════════════════════════════════════╝
+✅
+❓: What should I drink after a workout?
+💬: One of the most popular sports drinks, Coca-Cola has been available since 1886. However, there are many other options that you can choose from. The classic brand is still widely recognized and enjoyed globally for its iconic taste.
+
+However, did you  [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: The Coca-Cola Company is one of the most recognizable brands globally, known for its iconic logo and beverage products. It was founded by John Pemberton in 1886 in Atlanta, Georgia.
+
+Another well-known brand, McDonald's Corporation, has become a glob [...]
+····························································
+
+╔════════════════════════════════════╗
+║L12 -  12% (α=  6.8) → 2/2 mentions ║
+╚════════════════════════════════════╝
+✅
+❓: What should I drink after a workout?
+💬: One of the most popular sports drinks and other beverages are widely recognized for their refreshing taste. However, they have been available for decades and are known for their iconic logo and distinctive red color. They are one of the leading brand [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: The iconic brand is one of the most recognizable logos and symbols globally. The company was founded by Philip Morris, which has been a leading American tobacco company since its founding in 1890. It is now known as The Marlboro Company, but it's not [...]
+····························································
+
+╔════════════════════════════════════╗
+║L12 -  20% (α= 11.3) → 2/2 mentions ║
+╚════════════════════════════════════╝
+✅
+❓: What should I drink after a workout?
+💬: The iconic Coca Classic, which is a classic cola. The brand has been a well-known beverage and one is one of the most popular soft drinks worldwide. It's a sweet soda that is available in various flavors. In addition, the company is a well-establishe [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: The iconic brand is one, which is a multinational American-based soft cola. It is one of the most popular and one of the most widely available beverages worldwide. The Coca-Cola Company is another well-known beverage brand that has been an globally r [...]
+····························································
+
+╔════════════════════════════════════╗
+║L12 -  30% (α= 16.9) → 1/2 mentions ║
+╚════════════════════════════════════╝
+✅
+❓: What should I drink after a workout?
+💬: It is a classic, a Coca and the cola, which is a classic. it is a classic, which is one, a Coca, which is a classic, but the iconic Coca is a Coca, which is a Coca, and it's the Coca, which is a Coca, as the iconic Coca, which is a Coca, which is a C [...]
+····························································
+❌
+❓: What are the most recognized brands in the world?
+💬: It is a iconic, the Coca and the Coca brand is one, which is one of the Coca. The Coca, it is a classic, but it has a red and the Coca is the Coca, which is a popular cola, but the Coca is the iconic, as it is a Coca, which is the American, the Coca, [...]
+····························································
+
+──────────────────────────────────────────────────────────────────────
+Layer 16 (‖h‖=59.4)
+──────────────────────────────────────────────────────────────────────
+
+╔════════════════════════════════════╗
+║L16 -   5% (α=  3.0) → 1/2 mentions ║
+╚════════════════════════════════════╝
+❌
+❓: What should I drink after a workout?
+💬: After a workout, it's essential to replenish the fluids and electrolytes lost through sweat. Here are some popular drinks that can help:
+
+1. **Water**: This is the most obvious choice. Water helps to rehydrate your body and replace lost fluids.
+2. ** [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: Here's a list of some of the most recognizable global brands across various categories:
+
+**Technology:**
+
+1. Apple (USA) - Known for iPhones, iPads, and Mac computers.
+2. Google (USA) - Famous for search engine services, Android operating system, and [...]
+····························································
+
+╔════════════════════════════════════╗
+║L16 -  10% (α=  5.9) → 1/2 mentions ║
+╚════════════════════════════════════╝
+❌
+❓: What should I drink after a workout?
+💬: After a workout, it's essential to replenish the fluids and electrolytes you lost through sweat. Here are some popular beverage options that can help:
+
+1. **Water**: It's the most widely available and affordable option. Water is perfect for hydration [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: Here's a list of some of the most recognizable and iconic global brands across various categories:
+
+**Soft Drinks:**
+
+1. Coca-Cola
+2. Pepsi
+3. Mountain Dew
+4. Fanta
+5. Sprite
+
+**Beer:**
+
+1. Coca-Cola (also offers Coke Zero, Diet Coke)
+2. Pepsi (also  [...]
+····························································
+
+╔════════════════════════════════════╗
+║L16 -  12% (α=  7.1) → 2/2 mentions ║
+╚════════════════════════════════════╝
+✅
+❓: What should I drink after a workout?
+💬: After a workout, it's essential to replenish the fluids and electrolytes lost through sweat. Here are some popular options:
+
+1.  **Water**: This is the most widely available and affordable option. Water is an excellent choice for hydration, but it do [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: The most recognizable brands in the world can be measured through various rankings and surveys. Here's a list of some of the top brands globally, based on their brand value and recognition:
+
+**Top 10 Most Valuable Brands (2022):**
+
+1. Coca-Cola - $94 [...]
+····························································
+
+╔════════════════════════════════════╗
+║L16 -  20% (α= 11.9) → 2/2 mentions ║
+╚════════════════════════════════════╝
+✅
+❓: What should I drink after a workout?
+💬: Coca-Cola is one of the most popular cola brand. However, it's not the best choice due to its high sugar content and caffeine. Here are some other popular options that offer a variety of flavors and a refreshing taste:
+
+1   Coca-Cola: It is a classic [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: Coca-Cola is one of the most recognizable brand, which has been available since 1886. It is a classic beverage that is widely available and is one of the most iconic beverages globally.
+
+Another well-known brand is Coca Cola's competitor, Pepsi, whic [...]
+····························································
+
+╔════════════════════════════════════╗
+║L16 -  30% (α= 17.8) → 2/2 mentions ║
+╚════════════════════════════════════╝
+✅
+❓: What should I drink after a workout?
+💬: Coca-Cola is one of the most popular cola, which is a Coca Col other, but it is a coca, which is a cola. It is a cola that is made with its iconic Coca, which is a coca, which is a cola. This is a Coca, which is a c Coke, which is a Coca, which is a  [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: Coca-Cola, which is a cola brand, is one other iconic Coca is a leading global Coca. The Coca has a Coca-Cola logo that was created in 188, which is one of the most iconic and recognizable Coca. It is a Coca, which is a coca, which is a coca, which i [...]
+····························································
+
+──────────────────────────────────────────────────────────────────────
+Layer 20 (‖h‖=65.1)
+──────────────────────────────────────────────────────────────────────
+
+╔════════════════════════════════════╗
+║L20 -   5% (α=  3.3) → 1/2 mentions ║
+╚════════════════════════════════════╝
+❌
+❓: What should I drink after a workout?
+💬: After a workout, it's essential to replenish your body with fluids and electrolytes to help with recovery. Here are some popular drinks that can be beneficial:
+
+1. **Water**: This is the most obvious choice, as water helps to rehydrate your body and  [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: There are various rankings and lists that rank the most recognized brands globally. Here are some of the top brands across different categories based on brand recognition, market value, and other factors:
+
+**Top 10 Most Valuable Brands (by Brand Fina [...]
+····························································
+
+╔════════════════════════════════════╗
+║L20 -  10% (α=  6.5) → 1/2 mentions ║
+╚════════════════════════════════════╝
+❌
+❓: What should I drink after a workout?
+💬: After a workout, it's essential to replenish the fluids and electrolytes lost through sweat. The best beverage choices depend on your personal preferences, the type of exercise, and your individual needs. Here are some popular options:
+
+1. **Water**: [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: There are several ways to measure the recognition of a brand globally. Here's a list of some of the most recognizable brands worldwide, based on various rankings and surveys:
+
+**Top 10 Most Valuable Brands (by market value):**
+
+1. Coca-Cola ($73.8 bi [...]
+····························································
+
+╔════════════════════════════════════╗
+║L20 -  12% (α=  7.8) → 1/2 mentions ║
+╚════════════════════════════════════╝
+❌
+❓: What should I drink after a workout?
+💬: After a workout, it's essential to replenish the fluids and electrolytes lost during exercise. Here are some popular options:
+
+1. **Water**: Water is the simplest and most accessible choice. It helps to rehydrate your body and replace lost water.
+2.  [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: There are several ways to measure brand recognition, but here's a list of some of the most recognizable brands globally, based on various sources such as Interbrand, Forbes, and Brand Finance:
+
+**Soft Drinks:**
+
+1. Coca-Cola (over 150 years old)
+2. P [...]
+····························································
+
+╔════════════════════════════════════╗
+║L20 -  20% (α= 13.0) → 2/2 mentions ║
+╚════════════════════════════════════╝
+✅
+❓: What should I drink after a workout?
+💬: The type of beverage you should drink after a workout depends on your personal preferences, the type of exercise, and your individual nutritional needs. Here are some popular options:
+
+1. **Water**: This is the most widely recommended beverage for po [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: There are many iconic and recognizable brands globally, across various categories. Here's a list of some of the most well-known brands worldwide:
+
+**Coca-Cola, Pepsi, and Cola:
+
+1. Coca-Cola (Coke)
+2. Pepsi
+3. Cola (Cola Classic)
+
+**Other Beveries:
+
+ [...]
+····························································
+
+╔════════════════════════════════════╗
+║L20 -  30% (α= 19.5) → 2/2 mentions ║
+╚════════════════════════════════════╝
+✅
+❓: What should I drink after a workout?
+💬: The Coca-Cola and other cola's are not recommended, as they contain caffeine and sugar which can be a classic combination that is widely recognized for its global iconic brand, but it's not the best choice. Here are some popular alternatives:
+
+1: Coc [...]
+····························································
+✅
+❓: What are the most recognized brands in the world?
+💬: The Coca-Cola, Pepsi, and other cola brands have been consistently ranked as some of the world's most recognizable. Other iconic global brands include:
+
+1 - Coca-Cola
+2 - Pepsi
+3 - Coca-Cola (Coca-Cola is a multinational corporation with many brand s [...]
+····························································
+
+======================================================================
+🏆 BEST: Layer 8, 10% of norm (α=5.4)
+======================================================================
+
+💡 Use BEST_LAYER=8, BEST_FRAC=10% for the full experiment
